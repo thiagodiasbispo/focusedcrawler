@@ -1,0 +1,6 @@
+Fatal error:  Uncaught exception 'Exception' with message 'file_get_contents(/var/www/c/administrator/language/pt-BR/pt-BR.plg_joomfish_missing_translation.ini) [< a href='function.file-get-contents' >function.file-get-contents< /a >]: failed to open stream: No such file or directory' in /var/www/c/libraries/joomla/language/language.php:341
+#1 /var/www/c/libraries/joomla/language/language.php(304): JLanguage- >_load('/var/www/c/admi...', 'plg_joomfish_mi...')
+#2 /var/www/c/libraries/joomla/plugin/plugin.php(114): JLanguage- >load('plg_joomfish_mi...', '/var/www/c/admi...')
+#3 /var/www/c/plugins/joomfish/missing_translation.php(37): JPlugin- >loadLanguage('plg_joomfish_mi...', '/var/www/c/admi...')
+#5 /var/www/c/libraries/joomla/plugin/helper.php(97): JPluginHelper- >_import(Object(stdClass), true, NULL)
+#6 /var/www/c/plugins/system/ in /var/www/c/libraries/joomla/language/language.php on line 341

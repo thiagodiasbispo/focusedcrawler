@@ -1,0 +1,12 @@
+[GALERIA, Vila Madalena] Exposição atual: Simon Evans | Interior Design | Até 22/dezembro
+[GALERIA, Vila Madalena] Exposição atual: Agnieszka Kurant | Cutaways | Até 22/dezembro
+[GALPÃO, Barra Funda] Exposição atual: Jac Leirner | métrica mínima | Até 22/janeiro
+array(6) { ["id"]=> string(1) "1" ["site"]=> string(1) "1" ["tit"]=> string(7) "Galeria" ["descricao"]=> string(80) "
+" ["mapa"]=> string(24) "http://goo.gl/maps/gfaOn" ["tel"]=> string(18) "T +55 11 3032 7066" } [1]=> array(6) { ["id"]=> string(1) "3" ["site"]=> string(1) "1" ["tit"]=> string(6) "Galpão" ["descricao"]=> string(88) "
+Rua James Holland 71 | Barra Funda
+" ["mapa"]=> string(24) "http://goo.gl/maps/hpo3j" ["tel"]=> string(19) "T + 55 11 3392 3942" } } --> Galeria Fortes Vilaça
+T +55 11 3032 7066
+Rua James Holland 71 | Barra Funda
+T + 55 11 3392 3942
+Terça a sexta: 10h - 19h
+Fechado aos domingos, segundas e feriados

@@ -1,0 +1,6784 @@
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/link_storage.cfg
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/home.cfg
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/storage_file.cfg
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/rmi_port.cfg
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/news/news.cfg
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/news/./news.template
+CONFIGURATION FILE = /home/thiago/projetos/plnufsteam/plnufsteam/WebCrawler/usr/crawler/conf/link_storage/news/././features
+LINK_CLASSIFIER:class focusedCrawler.link.classifier.LinkClassifierBaseline
+USE_SCOPE:true
+http://www.cartoonnetwork.com.br/
+http://www.pixels.com.br/
+http://bigsmall.no.sapo.pt/
+http://www.animedreams.com.br/
+http://animetrail.no.sapo.pt/
+http://www.yamatocorp.com.br/
+http://animespirit.com.br/
+http://www.animaniaclub.com.br/
+http://www.mp3.animaniaclub.com.br/
+http://wallnosekai.blogspot.com/
+http://www2.uol.com.br/ohayo/
+http://otakupt.com/
+http://www.cosplaybr.com.br/
+http://www.cosplayers.net/
+http://www.ressacafriends.com.br/
+http://ptsoft.net/tdd/conan/
+http://www.mythicalsleuthloki.xpg.com.br/
+http://www.heatguyj.xpg.com.br/
+http://goldzveig.tripod.com/amg.html
+http://goldzveig.tripod.com/dai.html
+http://www.angelfire.com/ne/fyjogomisterioso/fushigi.html
+http://www.heero-relena-4ever.blogspot.com/
+http://www.kagomeinu.blogger.com.br/
+http://www.flogao.com.br/blogkagomeinu
+http://pt-br.naruto.wikia.com/wiki/Wiki_Naruto
+http://clientes.netvisao.pt/spiedade/
+http://goldzveig.tripod.com/sm.html
+http://www.cavaleirosmania.blogger.com.br/
+http://www.saint-seiya.host.sk/
+http://www.taizen.blogger.com.br/
+http://weisskreuz.atspace.com/
+http://br.groups.yahoo.com/group/weiss_kreuz_brasil/
+http://kuwabara.tripod.com/
+http://goldzveig.tripod.com/yuyu.html
+http://www.aleabreu.com.br/
+http://danielagoncalves.do.sapo.pt/
+http://members.tripod.com/renebunny/index.html
+http://transformers.no.sapo.pt/
+http://www.hannabarbera.com.br/
+http://www.danmess.com/
+http://www.hgn.com.br/
+http://www.braziltoonz.com.br/
+http://www.mandra.com.br/
+http://www.tvpinguim.com.br/
+http://www.vitruvius.com.br/
+http://www.sobresites.com/arquitetura/
+http://sittium.no.sapo.pt/
+http://www.arcoweb.com.br/
+http://comunicacionpatrimoniomundial.blogia.com/
+http://www.sitengenharia.com.br/
+http://arqportugal.blogspot.com/
+http://www.arquitectura.pt/forum/
+http://www.tobasign.com/
+http://www.comofazerpapel.com.br/
+http://www.fatimacavalieri.com/
+http://pedrarara.no.sapo.pt/
+http://artesanal.no.sapo.pt/
+http://www.atheliealquimia.com/
+http://www.galerie51.com/
+http://www.lygiaclark.org.br/
+http://www.cleaespindola.com.br/
+http://www.sironfranco.com/
+http://www.rosianegouvea.com.br/
+http://www.gutograca.net/
+http://www.ricardohage.com/
+http://maringelli.com.br/
+http://www2.uol.com.br/leonilson
+http://gracamorais.blogspot.com/
+http://www.adrianarocha.art.br/
+http://www.joaowerner.com.br/
+http://www.arteplastica.com/
+http://www.art-bonobo.com/
+http://www.portalartes.com.br/
+http://www.escola-panamericana.com.br/
+http://www.brennand.com.br/
+http://www.pcosta.art.br/
+http://luis-cruz.com/
+http://www.belkissdiniz.art.br/
+http://mauro-fuke.blogspot.com/
+http://www.eunicenazario.com/
+http://carlosoliveira.do.sapo.pt/
+http://susanapiteira.com/
+http://www.rogeriotimoteo.com/
+http://www.angelovenosa.com/
+http://www.espacozero.com.br/
+http://www.eduardoprado.com/
+http://www.escritoriodearte.com/
+http://www.rcamargoarte.com.br/
+http://www.nararoesler.com.br/
+http://www.murilocastro.com.br/
+http://www.galeriamariliarazuk.com.br/
+http://www.casatriangulo.com/
+http://www.bolsadearte.com.br/
+http://www.fortesvilaca.com.br/
+http://www.galeriandre.com.br/
+http://www.galerialuisastrina.com.br/
+http://www.paulodarzegaleria.com.br/
+http://www.simoesdeassis.com.br/
+http://www.amoakonoya.com.br/
+http://www.arteaplicada.com.br/
+http://www.arteinfinita.com.br/
+http://www.casadasartes.com.br/
+http://www.dconcept.net/
+http://www.almavera.com.br/
+http://www.raquelarnaud.com/
+http://www.galeriaberenicearvani.com/
+http://www.galeriaestacao.com.br/
+http://www.ardies.com/
+http://www.galeriamillan.com.br/
+http://www.galerianobrega.com.br/
+http://www.lordelloegobbi.com.br/
+http://www.cantogravura.com.br/
+http://www.dumaresq.com.br/
+http://www.galeria.anitaschwartz.com.br/
+http://www.graphias.com.br/
+http://galerialeme.com/
+http://www.galeria22.com.br/
+http://www.galeriabrasiliana.com.br/
+http://www.annamarianiemeyer.com.br/
+http://www.galeriavirgilio.com.br/
+http://www.aracaju.com/galeria/
+http://www.galeriapaulistana.com.br/
+http://www.choquecultural.com.br/
+http://www.galeriaeduardohfernandes.com/
+http://www.silviacintra.com.br/
+http://www.paraty.com.br/arte.asp
+http://www.artbiz.com.br/
+http://www.appletonsquare.pt/
+http://www.queirozcosta.com.br/
+http://www.dam.art.br/
+http://www.defatima.com.br/
+http://ritaaragaopintora.tripod.com/
+http://www.portaldoartesao.com.br/jurandiassis/
+http://stelabarretoart.blogspot.com/
+http://www.nhardes.com/ivanilda/
+http://www.silviabrum.com.br/
+http://www.iberecamargo.org.br/
+http://www.sylviacorrea.com.br/
+http://www.salvadordali.com.br/
+http://www.pedrocharters.com/
+http://www.dicavalcanti.com.br/
+http://www.amaury-dubois.com/pt/index.php
+http://www.espalha.com/
+http://sites.google.com/site/wilsonfreitasretratos
+http://www.lena-gal.com/
+http://www.arteplastica.com/cristinagiannotti/crisapresenta.htm
+http://lgonzaga.tripod.com/
+http://www.jorgeherrmann.com/
+http://www2.uol.com.br/arcangeloianelli/sessoes/centro.htm
+http://www.olgalebedeff.com/
+http://mmartini4.tripod.com/
+http://www.marcomartins.com.br/
+http://www.raquelmartins.net/
+http://nunomedeiros.planetaclix.pt/
+http://www.liviodemorais.com/
+http://www.cave.cave.nom.br/
+http://www.nidearte.net/
+http://www.artwanted.com/ozodrac
+http://www.ruipaiva.com/
+http://www.ramalho.pt/
+http://www.yalerenan.com.br/
+http://www.fannyrosanier.org/
+http://www.artedemid.com/
+http://www.zorzenon.com/
+http://www.lelliobraganca.com/
+http://www.angelalemosatelie.com.br/
+http://www.artmajeur.com/natalicaseir/
+http://elzafilipa.com/
+http://www.dumaarte.com/
+http://www.pennart.com.br/
+http://rosanemugnaine.blogspot.com.br/
+http://www.marciocamargo.com.br/
+http://www.ticavs.com/
+http://www.carruco.com/
+http://mirelafiorese.com/
+http://leonelcunha.net/
+http://www.maria-monteiro.com/
+http://www.iar.unicamp.br/cpgravura/
+http://www.telaseartes.uai.com.br/
+http://www.artes.com/
+http://paulobordhin.free.fr/
+http://www.elkemaravilha.com.br/
+http://www2.uol.com.br/fernandamontenegro/
+http://www.lyliavirna.blogger.com.br/
+http://www.ricardopereira.com.sapo.pt/
+http://www.numb.8m.com/index.html
+http://groups.yahoo.com/group/lenny/
+http://www.marchese.com.br/
+http://www.elianegiardini.com/
+http://deusasinebriantes.blogspot.com/
+http://www.stagium.com.br/
+http://www.dam.art.br/
+http://www.adrianaalcantara.com.br/
+http://www.anaesmeralda.com.br/
+http://kardini.4mg.com/
+http://www.anthony.com.br/
+http://www.magicofabiano.com.br/
+http://www.claudiomagico.com.br/
+http://www.paolodemitri.com.br/
+http://www.magicosany.com.br/
+http://www.omago.com.br/
+http://www.paulejack.com/
+http://www.magicoalex.com.br/
+http://www.luisdematos.pt/
+http://clientes.netvisao.pt/to022717/
+http://www.artursantos.com/
+http://teatrolinks.com.sapo.pt/destaques.htm
+http://podepalco.planetaclix.pt/podepalco.htm
+http://www.uol.com.br/suzane/lia
+http://laboratoriodoator.tripod.com/
+http://www.cineweb.com.br/
+http://www.7arte.net/
+http://ultimate_evil.tripod.com/
+http://www.angelfire.com/film/homecinema/
+http://www.miguelsaleslopes.com/
+http://www.cinemabrasil.org.br/
+http://www.curtaocurta.com.br/
+http://www.curtagora.com/
+http://www.interrogacaofilmes.com/beaba/
+http://www.verinhaottoni.com/gianniamico/gianniamico/gianniamico_brazilianpress.html
+http://www.cineminha.com.br/
+http://www.kinoforum.org/curtas/
+http://www.kinoforum.org/oficinas/
+http://www.estragafilmes.blogger.com.br/
+http://www.interfilmes.com/
+http://www.c7nema.net/
+http://portacurtas.org.br/
+http://www.dvdmagazine.com.br/
+http://pulpfiction.no.sapo.pt/
+http://www.verveweb.com.br/gaijin2/
+http://www.cidadededeus.com.br/
+http://www.webcine.com.br/filmessc/casablan.htm
+http://www.webcine.com.br/filmessi/greenmil.htm
+http://www.ufscar.br/~cinemais/artespera.html
+http://www.webcine.com.br/filmessi/abrildes.htm
+http://www.webcine.com.br/filmessi/somelike.htm
+http://members.tripod.com/amigas_de_colegio/inicio.htm
+http://www.webcine.com.br/filmessc/apocalip.htm
+http://jamesbondbr.tripod.com/
+http://clientes.netvisao.pt/damarofi/
+http://matrixbrasil.tripod.com/
+http://www.uma.pt/Unidades/Adesign/
+http://www.marygeluda.com.br/
+http://www.tativitsic.com.br/
+http://www.designervitorneves.no.sapo.pt/
+http://www.vignamaru.com.br/
+http://clientes.netvisao.pt/adduarte
+http://www.cisma.com.br/
+http://www.monolithos.net/
+http://galeriadoricardo.com.sapo.pt/index.htm
+http://www.dlc.ua.pt/
+http://www.evtagostinho.no.sapo.pt/
+https://www.essr.net/
+http://www.ida.unb.br/
+http://www.embap.br/
+http://nextart.pt/
+http://www.fcg.art.br/
+http://mef.no.sapo.pt/
+http://www.1000imagens.com/
+http://www.mundofotografico.com.br/
+http://www.sff.com.br/
+http://www.confoto.art.br/
+http://www.guiadafotografia.com/
+http://focusfoto.com.br/
+http://www.rever.fot.br/
+http://www.ateliedaimagem.com.br/
+http://www.ipf.pt/
+http://www.escolaportfolio.com.br/
+http://www.abaf.art.br/
+http://www.fineprint.pt/
+http://www.magodasimagens.com.br/
+http://www.blues.com.pt/
+http://www.tatucolor.com.br/
+http://www.fotodinamica.com.pt/
+http://www.allanalmeida.com/
+http://www.cameraviajante.com.br/
+http://www.cameraobscura.com/
+http://www.studiofaya.com/
+http://www.vitorshalom.com.br/
+http://www.jorgebispo.com/
+http://www.edping.com/
+http://www.neoarte.net/
+http://www.vianaphotography.com/
+http://www.raulvargas.com.br/
+http://www.marcelogreco.com/
+http://jaredwindmuller.com/
+http://pontosdevista.net/
+http://www.cotianet.com.br/photo/
+http://www.joaocoutinho.net/
+http://olhares.net/
+http://arteflow.org/
+http://www.angelfire.com/jazz/trespaisaxes/
+http://lunae.no.sapo.pt/
+http://www.bancodaimagem.com.br/
+http://www.virtualphoto.net/
+http://www.fotodigital-online.com/
+http://pinhole.no.sapo.pt/
+http://www.clicio.com.br/
+http://www.fotodicas.com/
+http://naoseipramais.blogspot.com/
+http://www.sitedefotos.com.br/
+http://www.minirecados.com/
+http://www.flogao.com.br/
+http://flogbrasil.terra.com.br/
+http://www.megaflog.com.br/
+http://www.flogvip.net/
+http://flog.clickgratis.com.br/
+http://www.artedata.com/crml/crml0001.htm
+http://www.comartevirtual.com.br/bh1secul.htm
+http://www.itaucultural.org.br/
+http://www.cha.uevora.pt/
+http://purl.pt/778/
+http://www.longoalcance.com.br/
+http://pt.wikipedia.org/wiki/Portal:Arte
+http://www.serqueira.com.br/mapas/
+http://www.dezenovevinte.net/
+http://www.pintoresfamosos.com.br/
+http://www.tarsiladoamaral.com.br/
+http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-93132003000100005
+http://www.pintoresfamosos.com.br/?pg=klimt
+http://www.infonet.com.br/mozart/
+http://www.victor.brecheret.nom.br/
+http://fw.art.br/
+http://www.cidadeshistoricas.art.br/
+http://www.omelete.com.br/
+http://www.hqmaniacs.com/
+http://www.malvados.com.br/
+http://www2.uol.com.br/laerte/tiras/index-piratas.html
+http://www.angelfire.com/comics/poder_da_furia/principal.html
+http://www.ofanatico.blogger.com.br/
+http://caricaturas.blogspot.com/
+http://www2.uol.com.br/10paezinhos/
+http://www.devir.com.br/mutarelli/index.htm
+http://www.universohq.com/
+http://www.quantaacademia.com/
+http://www.lobobrasil.com.br/
+http://homemgrilo.com/
+http://www.guiadosquadrinhos.com/
+http://publicidadeenganosa.comicgenesis.com/
+http://www.viriatoebarcelos.com/
+http://www.jotahilustracoes.com.br/
+http://www.bananapop.com.br/
+http://nanquimaquarela.blogspot.com/
+http://www.shampoo.art.br/
+http://www.studio.seasons.nom.br/
+http://lostwings.blogs.sapo.pt/
+http://www.areae.com.br/
+http://s14.invisionfree.com/FullmetalAlchemistBR
+http://www.mangadf.com.br/curso/home.html
+http://pt.wikipedia.org/wiki/Mang%C3%A1
+http://centraldemangas.com.br/
+http://tralhasvarias.blogspot.com/
+http://www.anitube.se/
+http://anmtv.xpg.uol.com.br/
+http://www.abrademi.com/
+http://estudiozoo.com.br/
+http://mangasjbc.uol.com.br/
+http://pt.hxh.wikia.com/
+http://sib.org.br/
+http://joacartoons.no.sapo.pt/
+http://www.ivoviuauva.com.br/
+http://www.nacascadoovo.com.br/
+http://www.abelcosta.com/
+http://www.aleabreu.com.br/
+http://www.alineabreu.com.br/
+http://www.danielhdr.com.br/
+http://www.babiws.com.br/
+http://www.dubiela.com/
+http://karikamania.no.sapo.pt/
+http://www.cellus.com.br/
+http://www.fotolog.net/orlandopedroso
+http://www.samuelcasal.com/
+http://eldes.com/
+http://www.ludic.com.br/
+http://www.faoza.com/
+http://www.ilustrato.com/
+http://www.fotolog.net/kipper
+http://www.william.com.br/
+http://www.nuno-costa.com/
+http://www.shuman.com.br/
+http://petrus.kamaleao.com/
+http://www.toonman.com.pt/
+http://acpvisual.blogspot.com/
+http://www.sribeiro.com.br/
+http://www.caffeteria.blogspot.com/
+http://adler-books.com.br/thais/
+http://www.claytonjunior.com/
+http://www.luizaestrella.com.br/
+http://leopoldo.atspace.com/index.htm
+http://www.dlestudio.com.br/
+http://www.monicafuchs.com.br/
+http://www.andreflauzino.com.br/
+http://maiadesenhos.blogspot.com/
+http://www.marciomorais.com.br/
+http://wantedman.deviantart.com/gallery/
+http://www.palat.com.br/
+http://www.ana-bento.blogspot.com/
+http://www.alexkoti.com/
+http://www.goncaricaturas.com/
+http://www.marciokuhne.com.br/
+http://www.lematta.com/
+http://www.vigna.com.br/
+http://www.teolinda-gersao.com/
+http://www.valinor.com.br/
+http://www.sitedoaran.com.br/
+http://cavafis.i8.com/
+http://joaomarianabais.com.sapo.pt/index.htm
+http://www.rs.gov.br/marioquintana/
+http://www.machadodeassis.org.br/
+http://www.carladias.com/
+http://www.sanesociety.org/pt/adrianomonteiro/
+http://tolkien.no.sapo.pt/
+http://www.carlosporfirio.com/
+http://www.lucianabveit.com/
+http://elfico.com.br/
+http://cervantesvirtual.com/portal/FBN/
+http://www.literario.com.br/
+http://www.portugal-linha.pt/literatura/
+http://www.cronistasreunidos.com.br/
+http://www.lendo.org/
+http://fimdamente.org/
+http://www.lol.pro.br/
+http://www.seixoreview.com/
+http://www.neumanne.com/
+http://www.kakinet.com/caqui/
+http://www.revistabrasil.org/
+http://www.mafua.ufsc.br/
+http://www.germinaliteratura.com.br/
+http://www.cronopios.com.br/
+http://www2.dlc.ua.pt/classicos/agora.htm
+http://www.novoslivros.online.pt/
+http://pt.wikipedia.org/wiki/G%C3%AAnero_liter%C3%A1rio
+http://www.todas.com.br/indexpoeta.htm
+http://www.stelle.com.br/
+http://www.humaniadas.com/
+http://www.casadacultura.org/Literatura/Poesia/idx_poesias.html
+http://www.astormentas.com/
+http://www.sonetos.com.br/
+http://www.nossacasa.net/escritores/
+http://www.fisica.ufpb.br/~romero/port/grandesautores.htm
+http://www.isr.ist.utl.pt/~cfb/VdS/
+http://portodeabrigo.do.sapo.pt/
+http://www.members.tripod.com/flaviap/card.htm
+http://www.mdaedalus.com/
+http://www.triplov.com/letras/
+http://www.opoeta.com/
+http://poemas-de-amor.net/
+http://www.cintiabarreto.com.br/
+http://cgalveias.no.sapo.pt/
+http://poetavampiro.no.sapo.pt/
+http://www.maup.nl/
+http://harpad.com.sapo.pt/
+http://www.poetrycafe.weblog.com.pt/
+http://www.xente.mundo-r.com/iltrovatorechankecham/
+http://www.poemail.com.br/
+http://tiago_ribeiro.blogspot.com/
+http://poese.blogspot.com/
+http://www.luso-poemas.net/
+http://www.amoreamor.com/
+http://www.rnsites.com.br/cordeis.htm
+http://www.eusoqueriaumcafe.com/
+http://www.carlosdrummond.com.br/
+http://www.releituras.com/aprado_menu.asp
+http://www.uol.com.br/antoniocicero/
+http://www.fisica.ufpb.br/~romero/port/ga_pa.htm
+http://www.euclidescavaco.com/
+http://www.angelfire.com/ri/casadosol/hhilst.html
+http://www.gustavodourado.com.br/
+http://pipukus.blogspot.com/
+http://poemasdafilipa.com.sapo.pt/
+http://www.victorjose.com/
+http://folhadepoesia.com.sapo.pt/
+http://www.oscarararipe.com.br/
+http://cupidazul.blogspot.com/
+http://alexandrevargas.no.sapo.pt/
+http://ohniar.blogspot.com/
+http://jfernandolopes.com.sapo.pt/
+http://users.isr.ist.utl.pt/~cfb/VdS/sa.carneiro.html
+http://www.laurarodrigues.com/
+http://joaquimmarques.blogspot.com/
+http://www.joaofelintoneto.xpg.com.br/
+http://sevahc.com.sapo.pt/
+http://www.sucessoempoucaspalavras.com.br/
+http://www.isr.ist.utl.pt/~cfb/VdS/camoes.html
+http://www.gutenberg.org/ebooks/3333
+http://oslusiadas.org/
+http://www.astormentas.com/florbela.htm
+http://www.vidaslusofonas.pt/florbela_espanca.htm
+http://www.ipv.pt/millenium/16_pers10.htm
+http://marciaapinheiro.tripod.com/
+http://www.fpessoa.com.ar/
+http://www.insite.com.br/art/pessoa/
+http://www.mdaedalus.com/pessoa/
+http://umfernandopessoa.blogspot.com/
+http://www.fnlij.org.br/
+http://www.unicamp.br/iel/memoria/Ensaios/LiteraturaInfantil/index.htm
+http://www.historiasinfantis.net/
+http://www.aber.org.br/
+http://www.ceferreiradecastro.org/
+http://luisvpinto.no.sapo.pt/
+http://www.fcsh.unl.pt/docentes/hbarbas/
+http://profernando.tripod.com/
+http://www.ateiadaaranha.blogspot.com/
+http://www.melpomene.zip.net/
+http://teoriazero.blogspot.com/
+http://axolotl.zip.net/
+http://mariposadeobsidiana.blogspot.com/
+http://www.ninhodogaviao.zip.net/
+http://www.puxaprariba.blogger.com.br/
+http://marcioguilherme.blogspot.com/
+http://karaloka.net/
+http://ajaneladoocaso.blogspot.com/
+http://delance.blogspot.com/
+http://www.ocantodoparnaso.blogspot.com/
+http://sonhosdomundo.zip.net/
+http://palavrorios.blogspot.com/
+http://luiztarciso.net/
+http://pseudotudo.blogspot.com/
+http://bluesbeatandbeer.blogspot.com/
+http://clientes.netvisao.pt/trafaria/blog.htm
+http://poemasdeamoredor.blogs.sapo.pt/
+http://marilia.livejournal.com/
+http://abrigodepastora.blogspot.com/
+http://abrupto.blogspot.com/
+http://brinquedodepalavras.blogspot.com/
+http://expressoriente.blogspot.com/
+http://extravasar.blogspot.com/
+http://liberallibertariolibertino.blogspot.com/
+http://www.misteriosdecaliope.blogger.com.br/
+http://lilas.blogspot.com/
+http://odisseia2005.blogspot.com/
+http://www.wanderl.blogger.com.br/
+http://prosacaotica.blogspot.com/
+http://www.resistir.blogspot.com/
+http://tearsinthemoon.blogspot.com/
+http://www.vamoscronicar.blogger.com.br/
+http://passos.blogspot.com/
+http://pena.com-palavras.com/
+http://pedroesia.blogspot.com/
+http://lagash.blogs.sapo.pt/
+http://weblog.greenpeace.org/pt/
+http://www.jefferson.blog.br/
+http://www.polzonoff.com.br/
+http://livroseafins.com/
+http://caminhantediurno.blogspot.com.br/
+http://manualpraticodebonsmodosemlivrarias.blogspot.com.br/
+http://www.modapoint.com.br/
+http://www.portugalfashion.com/
+http://www.portaisdamoda.com.br/
+http://www.elle.abril.com.br/
+http://www.masp.art.br/
+http://www.mac.usp.br/
+http://www.ceao.ufba.br/mafro/
+http://www.fress.pt/
+http://www.dragaodomar.org.br/
+http://www.museuvillalobos.org.br/
+http://www.museusegall.org.br/
+http://masp.uol.com.br/
+http://www.memorial.sp.gov.br/memorial/index.jsp
+http://www.margs.rs.gov.br/
+http://www.museuoscarniemeyer.org.br/
+http://www.mam.org.br/
+http://www.mude.pt/
+http://www.foriente.pt/
+http://www.mam.ba.gov.br/
+http://www.guitarplayer.com.br/
+http://www.musica-portuguesa.com/
+http://graveemcasa.blogspot.com/
+http://www.soulzouk.com/
+http://www.musicabase.blogger.com.br/
+http://www.angelfire.com/nt/navaskaranga/
+http://www.gospeldownloads.com.br/
+http://www.14bis.com.br/
+http://faportugal.com.sapo.pt/
+http://acusticosevalvulados.wordpress.com/
+http://www.jerryadriani.com.br/
+http://www.letrasineditas.com/
+http://www.zealexandre.com.br/
+http://www.jazzbrasil.com.br/
+http://www.ronaldoalvarenga.com/
+http://www.amaranto.com.br/
+http://www.amazan.com.br/
+http://anger.no.sapo.pt/
+http://www.angra.net/
+http://www.arnaldoantunes.com.br/
+http://br.groups.yahoo.com/group/garegistro/
+http://www.armandinhoebanda.com.br/
+http://www.mafaldaarnauth.com/
+http://www.badiassad.com/
+http://www.alvaroassmar.com.br/
+http://www.osazeitonas.com/
+http://www.geraldoazevedo.com.br/
+http://filarmonicaribafeita.com.sapo.pt/
+http://www.musiclbm.com/
+http://www.barangarock.com.br/
+http://www.barao.com.br/
+http://www.barradasaia.com.br/
+http://www.eudoxiadebarros.com.br/
+http://www.vanessabarum.com.br/
+http://www.bigjoemanfra.com/
+http://www.biquini.com.br/
+http://www.netpar.com.br/fernandobit/
+http://blindedfear.freeservers.com/Pt/
+http://www.bluesandbeer.com.br/
+http://www.rolandoboldrin.com.br/
+http://www.wolfborges.com.br/
+http://www.joaobosco.com.br/
+http://www.washingtonbrasileiro.com.br/
+http://www.chicobuarque.com.br/
+http://www.acordosom.com.br/
+http://www.adrianacalcanhotto.com.br/
+http://www.calix.art.br/
+http://www.elianecamargo.com.br/
+http://www.cambadamineira.com.br/
+http://www.marciodecamillo.com.br/
+http://cantodalma.home.sapo.pt/
+http://www.carloscareqa.com.br/
+http://mariahfanclub.no.sapo.pt/
+http://www.anacarla.com/
+http://www.elvispresleycover.com.br/
+http://antoniocarloscd.com/
+http://www.erasmocarlos.com.br/
+http://robertocarlos.globo.com/
+http://www.bandacartoon.com.br/
+http://www.flaviocarvalho.com.br/
+http://www.paulodecarvalho.com/
+http://www.selmmacarvalho.com/
+http://www.ricardocastro.com/
+http://www.ivaniacatarina.com.br/
+http://www.euclidescavaco.com/
+http://www.cavaleirosdoforro.com/
+http://www.cazuza.com.br/
+http://www.celiaecelma.com.br/
+http://www2.uol.com.br/chicocesar/
+http://www.ceumar.com.br/
+http://www.antoniochainho.com/
+http://www.chamachuva.com.br/
+http://www.chimarruts.com.br/
+http://chitaoxororo.uol.com.br/
+http://www.choronas.com.br/
+http://www.chrystianeralf.com/
+http://www.adelmariocoelho.com.br/
+http://www.sergiocoelho.mus.br/
+http://www.fadodecoimbra.com/
+http://www.coraldelchiaro.com.br/
+http://www.gregoriano.org.br/
+http://www.unl.pt/coro
+http://www.robertocorrea.com.br/
+http://www.suelicosta.com.br/
+http://www.yamandu.com.br/
+http://www.anacristina.com.br/
+http://www.cupimnamesa.com.br/
+http://www.daniel.art.br/
+http://www.dmbrasil.net/
+http://www.dejavu.com.br/
+http://www.djavan.com.br/
+http://www.dominguinhos.art.br/
+http://www.betodourah.com.br/
+http://www.drumming.pt/
+http://deleiduarte.tripod.com/
+http://www.janeduboc.com.br/
+http://www2.uol.com.br/zeliaduncan/
+http://www.musicabrasileira.net/
+http://www.mariliadutra.com/
+http://www2.uol.com.br/engenheirosdohawaii/
+http://www.teteespindola.com.br/
+http://www.eterna.com.br/
+http://www.mariaeugenia.com.br/
+http://www.mariofabre.com.br/
+http://www.nelsonfaria.com/
+http://www.bibi-piaf.com/bibi_a.htm
+http://www.filipe-veronica.com/
+http://www.thaisfraga.com/
+http://www.kelenfranco.com.br/
+http://www.kikofreitas.com.br/
+http://www.frejat.com.br/
+http://nellyfurtadofas.blogspot.com/
+http://www.asgalvao.com.br/
+http://www.yulagabriela.com.br/
+http://galandum.co.pt/
+http://galinhadotize.no.sapo.pt/
+http://www.galopreto.com.br/
+http://www.leogandelman.com.br/
+http://www.zegeraldo.com/
+http://www.spo.matrix.com.br/rudigher/
+http://www.pretagil.com.br/
+http://www.alfredodiasgomes.com.br/
+http://www.fmh.utl.pt/serenatas/
+http://www.betoguedes.com.br/
+http://www.zeguilherme.com.br/
+http://www.guilhermeegustavo.com.br/
+http://www.flavioguimaraes.com.br/
+http://www.guinga.com.br/
+http://www.7colinas.com/
+http://www.henceforth.com.br/
+http://mariohenriques.do.sapo.pt/
+http://www.francishime.com.br/
+http://www.anadehollanda.com.br/index_anadehollanda.htm
+http://www.luhorta.com/
+http://isaenriqueig.home.sapo.pt/
+http://www.celineimbert.com.br/
+http://www.insistentes.com.br/
+http://www.cleliairuzun.com/
+http://www.joanna.com.br/
+http://www.joaoboscoevinicius.com.br/
+http://www2.uol.com.br/tomjobim/index_flash.htm
+http://www.jobim.com.br/
+http://www.seujorge.com/
+http://www.angelfire.com/stars/HomeKarametade/index.htm
+http://www.kidabelha.com.br/
+http://www.ellakobiaco.com.br/
+http://www.krisiun.com.br/
+http://www.lampioesemariabonita.com.br/
+http://www.clavecin.com.br/
+http://www.ritalee.com.br/
+http://www.vanderlee.com.br/
+http://www.leela.com.br/
+http://www.michelleme.com/
+http://leonardo.uol.com.br/
+http://helenaleonor.home.sapo.pt/
+http://lifehouse.no.sapo.pt/
+http://www.limaocommel.com.br/
+http://www.gustavolins.com.br/
+http://www.ivanlins.com.br/
+http://www.neilisboa.com.br/
+http://sites.google.com/site/literatusliteratus/
+http://www2.uol.com.br/loshermanos/
+http://www.loshermanos.com.br/
+http://www.kikoloureiro.com.br/
+http://www.rejaneluna.com.br/
+http://www.carloslyra.com/
+http://www.bandamantiqueira.com.br/
+http://www.theomachado.com/
+http://www.mariateresamadeira.com.br/
+http://www.bandamadeinbrazil.com.br/
+http://www.antuliomadureira.com.br/
+http://www.mamadoc.com.br/
+http://www.manitu.art.br/
+http://www.luizmantovani.com/
+http://www.alfredomarceneiro.com/
+http://www2.uol.com.br/pedromariano/
+http://www.maritina.com/
+http://www.rickymartin.com.br/
+http://www.andremartins.com.br/
+http://marefados.do.sapo.pt/
+http://www.maskavo.com.br/
+http://www.vanessadamata.com.br/
+http://www.matanza.com.br/
+http://www2.uol.com.br/neymatogrosso/
+http://www.robertamiranda.com.br/
+http://www.sulamiranda.com.br/
+http://www.pt.misia-online.com/
+http://mariodimoita.planetaclix.pt/index.html
+http://www.marisamonte.com.br/
+http://www.oswaldomontenegro.com.br/
+http://www.viniciusdemoraes.com.br/
+http://www.orlandomorais.com.br/
+http://www.paulinhomoska.com.br/
+http://www2.uol.com.br/edmotta/
+http://www.zuzo.com.br/
+http://www.mpb4.com.br/
+http://www.mrego.com.br/
+http://www.alemuniz.elo.com.br/
+http://www.dinhonascimento.com.br/
+http://www.carlosnavas.com.br/
+http://mariadanazare.home.sapo.pt/
+http://www.nenhumdenos.com.br/
+http://nickelback.no.sapo.pt/
+http://www.nihilo.com.br/
+http://www.fernandonoronha.com/
+http://www2.uol.com.br/marcelonova/
+http://novasguitarradas.no.sapo.pt/
+http://www.mauriciooliveira.com.br/
+http://www.orc.art.br/
+http://www2.uol.com.br/paralamas/
+http://www.patofu.com.br/
+http://www.sylviapatricia.com.br/
+http://pearljambyfigueira.no.sapo.pt/
+http://www.quitopedrosa.com.br/
+http://www.marcopereira.com.br/
+http://www.bibi-piaf.com/
+http://pianovox.no.sapo.pt/
+http://www.chicopinheiro.com.br/
+http://www2.uol.com.br/leilapinheiro/
+http://charlesportilho.blogspot.com/
+http://www.alexandrepires.art.br/
+http://rodrigopiva.com.br/
+http://www.pollaco.com/
+http://lpbassplayer.tripod.com/polygamya/
+http://www.zizipossi.com.br/
+http://www.profissaosamba.8k.com/
+http://www.ariprotazio.com.br/
+http://www.quartetoemcy.com.br/
+http://www.quaternaglia.com.br/
+http://aura.no.sapo.pt/index.html
+http://www.raizesrasta.com.br/
+http://www.raizdosana.com.br/
+http://www.elbaramalho.com.br/
+http://www.zeramalho.com.br/
+http://www.rammstein-portugal.com/
+http://pt.wikipedia.org/wiki/Rammstein
+http://www.ranier.com.br/
+http://www.rastape.com.br/
+http://www.luisrepresas.com/
+http://www.gruporevelacao.com.br/
+http://www.rhestus.com.br/
+http://www.lularibeiro.com.br/
+http://www2.uol.com.br/ritaribeiro/
+http://www.rionegroesolimoes.com.br/
+http://www.maria-rita.com/
+http://bandatherocks.blogspot.com/
+http://amaliarodrigues.no.sapo.pt/
+http://amalia.no.sapo.pt/
+http://www.guilhermerondon.com.br/
+http://www.angelaroro.com.br/index_angelaroro.htm
+http://cororumos.no.sapo.pt/
+http://www.musiconline.com.br/
+http://www.focosonoro.pt/
+http://www.divulgacaoalternativa.com.br/
+http://www.portalshakira.com/
+http://www.chicosalles.com.br/
+http://www.monicasalmaso.mus.br/
+http://www.agentedacerto.com.br/
+http://www.edvaldosantana.com.br/
+http://www.santannacantador.com.br/
+http://www.santarem.art.br/
+http://www.claudiosantoro.art.br/
+http://jaimesantos.homestead.com/jaimesantos.html
+http://www.lulusantos.com.br/
+http://www2.uol.com.br/secosemolhados/
+http://www.sextosentido.com.br/
+http://theshavados.tripod.com/index.htm
+http://www.heltonsilva.podomatic.com/
+http://www.jussarasilveira.com.br/index_jussarasilveira.htm
+http://www.skank.com.br/
+http://www.somnachapa.com.br/
+http://sonsdomondego.com.sapo.pt/
+http://palcomp3.com/tattereddoll/
+http://www2.uol.com.br/terrasamba/
+http://www.thalesethiago.com.br/
+http://www.wagnertiso.com.br/
+http://www.titas.net/
+http://www.toquinho.com.br/
+http://www2.uol.com.br/tribalistas/
+http://www.trioimages.com.br/
+http://www.trionordestino.com.br/
+http://www.triosabia.com.br/
+http://www.triovirgulino.com.br/
+http://www.tunai.com.br/
+http://www.tunatemplaria.ipt.pt/
+http://www.ultraviolet-u2.com/
+http://u22u.no.sapo.pt/
+http://www.u2alive.com/
+http://www.ultraje.com.br/
+http://www2.uol.com.br/alceuvalenca/
+http://www.velhasvirgens.com.br/
+http://www.belovelloso.com.br/
+http://www.caetanoveloso.com.br/
+http://www.flavioventurini.com.br/
+http://www.verdesanos.com/
+http://www.doravergueiro.com.br/carlinhosvergueiro/
+http://www.guilhermevianna.com.br/
+http://www.martinhodavila.com.br/
+http://www.paulinhodaviola.com.br/
+http://www2.uol.com.br/carlavisi/
+http://www.viuvanegra.com.br/
+http://cesarweber.com/
+http://www.zamarim.com.br/
+http://www.tomze.com.br/
+http://www.lyrics.com.br/
+http://www.mvhp.com.br/index.htm
+http://www.sombrasil.com.br/
+http://www.mpbnet.com.br/
+http://www.cifraclub.com.br/
+http://www.cifras.com.br/
+http://www.bossanova.mus.br/
+http://www.gospelcifras.com/
+http://www.pegacifras.com.br/
+http://www.poemasecancoes.com.br/
+http://cifradas.net/
+http://www.cifrasfx.com.br/
+http://www.decifra.com/
+http://www.teoriamusical.net/
+http://www.musicaeadoracao.com.br/
+http://www.musica-e-acordes.com/
+http://www.mic.pt/
+http://www.musicaeeducacao.mus.br/
+http://www.musicando.com.br/
+http://baodimaisdaconta.blogspot.com/
+http://www.unirio.br/
+http://www.ufam.edu.br/
+http://www.udesc.br/
+http://www.ufpb.br/
+http://www.iar.unicamp.br/musica/index.htm
+http://www.escolademusica.ufba.br/
+http://www.fames.es.gov.br/
+http://www.musica.ufrj.br/
+http://www.cmu.eca.usp.br/
+http://www.musica.ufmg.br/
+http://www.ia.unesp.br/
+http://www.mozarteum.br/new_site/web/CursosConteudos.asp?curso=11
+http://www.ufrgs.br/ufrgs/
+http://euterpe.blog.br/
+http://www.radiodj.com.br/
+http://www.livemix.com.br/
+http://www.djronaldinho.com/
+http://www.dancehitz.com.br/
+http://members.tripod.com/~Beto_Brazil/vozesfemininasportuguesas/index.html
+http://www.jose-lucio.com/Pagina2Fado/Pagina2Fado.htm
+http://www.portaldofado.net/
+http://www.fadocravo.blogspot.com/
+http://funk-brasil.blogspot.com/
+http://www.reggaetrade.com/
+http://www.gospelmusiccafe.com.br/
+http://www.supergospel.com.br/
+http://www.marquinhosbig.blogspot.com/
+http://www.casagospel.com/
+http://www.adorando.com.br/
+http://www.whiplash.net/
+http://www.mmrecords.com.br/
+http://rockafella-musicanalha.blogspot.com/
+http://virtuosys.blogspot.com/
+http://www.metalextremo.com.br/
+http://www.rockgaucho.com.br/
+http://www.rockbox.com.br/
+http://www.poashow.com.br/
+http://rockandroll.blog.br/
+http://movethatjukebox.com/
+http://www.sambarock.com.br/
+http://www.sambarocknaveia.com.br/
+http://alfarrabio.di.uminho.pt/arqevo/index.html
+http://www.anaflavia.com.br/100anosdemusica/
+http://www.collectors.com.br/CS06/cs06_03.shtml
+http://www.omelete.com.br/busca/?q=Hist%C3%B3ria+do+rock+no+cinema
+http://baru.no.sapo.pt/
+http://www.jose-lucio.com/
+http://www.flauta.com.br/
+http://www.webviolin.xpg.com.br/
+http://www.violamineira.blogspot.com/
+http://alfarrabio.di.uminho.pt/arqevo/index.html
+http://www.mvhp.com.br/baixo1.htm
+http://www.delcamp.net/forum/pt/
+http://br.groups.yahoo.com/group/sopa-de-letras/
+http://www.musicas.mus.br/
+http://minhamusica.com.sapo.pt/
+http://www.autobahn.com.br/
+http://www.webletras.com.br/
+http://www.letras.mus.br/
+http://www.musicajaponesa.net/
+http://www.letrasdemusica.com.br/
+http://www.musiconline.com.br/
+http://letras-de-musicas.blogs.sapo.pt/
+http://www.lyrics.com.br/
+http://www.bibliotecadeletras.com.br/
+http://www.analisedeletras.com.br/
+http://www.letrasdemusicas.com.br/
+http://vagalume.com.br/
+http://www.superletra.com/
+http://www.entermagazine.com.br/
+http://sonsvadios.blogspot.com/
+http://www.muzplay.net/
+http://www.showsnobrasil.net/
+http://www.festivaisverao.com/
+http://www.ruadebaixo.com/
+http://ontour.kazulo.pt/
+http://www.anppom.com.br/
+http://www.rem.ufpr.br/
+http://www.revistas.ufg.br/index.php/musica/index
+http://www.fflch.usp.br/dl/semiotica/es/busca/busca_GA-musica.htm
+http://www.anppom.com.br/opus/
+http://libdigi.unicamp.br/
+http://www.teses.usp.br/
+http://abemeducacaomusical.com.br/
+http://www.novacultura.de/
+http://revistacenica.tripod.com/sitename/
+http://www.csarmento.uminho.pt/ndat_61.asp
+http://www.nada.com.pt/
+http://www.angelfire.com/ab3/welcometoxfiles/
+http://www.rederecord.com.br/
+http://www.tvcultura.com.br/
+http://www.alltv.com.br/
+http://dharmaegreg.no.sapo.pt/
+http://www.januzzi.net/Orlando/AtalhoTV/ZazTraz.html
+http://www.band.com.br/
+http://sic.sapo.pt/
+http://www.ipctv.jp/
+http://www.euronews.com/
+FRONTIER: class focusedCrawler.link.frontier.FrontierTargetRepositoryBaseline
+>> TOTAL LOADED: 647
+>> LOADING GRAPH...
+>> DONE GRAPH.
+Creating Server (3189) Thu Dec 03 01:55:45 BRT 2015
+[3/DEC/2015:1:55:45] [ServerConnectionListener:3189] [Thread[Thread-1,5,main]] [listening on port 3189]
+Socket Server (3189) binded in Thu Dec 03 01:55:45 BRT 2015
+>>>>>URL:http://www.ufrgs.br/ufrgs/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.artedata.com/crml/crml0001.htm REL:2
+>>>RELEV:299.0
+>>>>>URL:http://jfernandolopes.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://pt.wikipedia.org/wiki/Mang%C3%A1 REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.fcg.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1
+TOTAL TIME:1
+AVERAGE:1.0
+>>>>>URL:http://www.teoriamusical.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:2
+TOTAL TIME:0
+AVERAGE:0.0
+>>>>>URL:http://www.musica-portuguesa.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:3
+TOTAL TIME:15
+AVERAGE:5.0
+>>>>>URL:http://www.interfilmes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:4
+TOTAL TIME:21
+AVERAGE:9.0
+>>>>>URL:http://pena.com-palavras.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:5
+TOTAL TIME:7
+AVERAGE:8.0
+>>>>>URL:http://www.carloslyra.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:6
+TOTAL TIME:10
+AVERAGE:9.0
+>>>>>URL:http://www.dumaarte.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:7
+TOTAL TIME:7
+AVERAGE:8.0
+>>>>>URL:http://www.raquelarnaud.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:8
+TOTAL TIME:3
+AVERAGE:8.0
+>>>>>URL:http://www.appletonsquare.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:9
+TOTAL TIME:33
+AVERAGE:10.0
+>>>>>URL:http://graveemcasa.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:10
+TOTAL TIME:26
+AVERAGE:12.0
+>>>>>URL:http://www.tunatemplaria.ipt.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:11
+TOTAL TIME:1
+AVERAGE:11.0
+>>>>>URL:http://www.luso-poemas.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:12
+TOTAL TIME:9
+AVERAGE:11.0
+>>>>>URL:http://u22u.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:13
+TOTAL TIME:1
+AVERAGE:10.0
+>>>>>URL:http://purl.pt/778/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:14
+TOTAL TIME:5
+AVERAGE:9.0
+>>>>>URL:http://www.showsnobrasil.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:15
+TOTAL TIME:0
+AVERAGE:9.0
+>>>>>URL:http://faportugal.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:16
+TOTAL TIME:0
+AVERAGE:8.0
+>>>>>URL:http://www.soulzouk.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:17
+TOTAL TIME:0
+AVERAGE:8.0
+>>>>>URL:http://www.gregoriano.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:18
+TOTAL TIME:1
+AVERAGE:7.0
+>>>>>URL:http://www.fames.es.gov.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:19
+TOTAL TIME:2
+AVERAGE:7.0
+>>>>>URL:http://www.theomachado.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:20
+TOTAL TIME:4
+AVERAGE:7.0
+>>>>>URL:http://homemgrilo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:21
+TOTAL TIME:2
+AVERAGE:7.0
+>>>>>URL:http://www.teses.usp.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:22
+TOTAL TIME:1
+AVERAGE:6.0
+>>>>>URL:http://pipukus.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:23
+TOTAL TIME:2
+AVERAGE:6.0
+>>>>>URL:http://www.designervitorneves.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:24
+TOTAL TIME:3
+AVERAGE:6.0
+>>>>>URL:http://www.interrogacaofilmes.com/beaba/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:25
+TOTAL TIME:2
+AVERAGE:6.0
+>>>>>URL:http://www.monicasalmaso.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:26
+TOTAL TIME:0
+AVERAGE:6.0
+>>>>>URL:http://ontour.kazulo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:27
+TOTAL TIME:0
+AVERAGE:5.0
+>>>>>URL:http://www.blues.com.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://galerialeme.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:28
+TOTAL TIME:0
+AVERAGE:5.0
+>>>>>URL:http://www.eusoqueriaumcafe.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:29
+TOTAL TIME:2
+AVERAGE:5.0
+>>>>>URL:http://www.samuelcasal.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:30
+TOTAL TIME:1
+AVERAGE:5.0
+>>>>>URL:http://sic.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:31
+TOTAL TIME:0
+AVERAGE:5.0
+>>>>>URL:http://petrus.kamaleao.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:32
+TOTAL TIME:1
+AVERAGE:5.0
+>>>>>URL:http://www.faoza.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:33
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.luhorta.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:34
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.luizmantovani.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:35
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.ceao.ufba.br/mafro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:36
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://www.lelliobraganca.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:37
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.carlosporfirio.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:38
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://nickelback.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:39
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://kardini.4mg.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:40
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://pseudotudo.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:41
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.alexandrepires.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:42
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cave.cave.nom.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:43
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fineprint.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:44
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.lucianabveit.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:45
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.sergiocoelho.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:46
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lol.pro.br/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.carruco.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:48
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://helenaleonor.home.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:49
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.artwanted.com/ozodrac REL:2
+>>>RELEV:299.0
+TOTAL PAGES:50
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://weisskreuz.atspace.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:51
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.novacultura.de/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:52
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://odisseia2005.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:53
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musica-e-acordes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:54
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://caricaturas.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:55
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.foriente.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://cesarweber.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:56
+TOTAL TIME:18
+AVERAGE:3.0
+>>>>>URL:http://www.violamineira.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:57
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.danmess.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:58
+TOTAL TIME:20
+AVERAGE:3.0
+>>>>>URL:http://extravasar.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:59
+TOTAL TIME:12
+AVERAGE:3.0
+>>>>>URL:http://www.portaldofado.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:60
+TOTAL TIME:5
+AVERAGE:4.0
+>>>>>URL:http://groups.yahoo.com/group/lenny/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:61
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://nunomedeiros.planetaclix.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:62
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://kuwabara.tripod.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://olhares.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:63
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://cavafis.i8.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:64
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://mariodimoita.planetaclix.pt/index.html REL:2
+>>>RELEV:299.0
+>>>>>URL:http://tearsinthemoon.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:65
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.lendo.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:66
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.allanalmeida.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:67
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.astormentas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:68
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:69
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fotolog.net/kipper REL:2
+>>>RELEV:299.0
+>>>>>URL:http://cervantesvirtual.com/portal/FBN/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:70
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://marefados.do.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:71
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.confoto.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:72
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.melpomene.zip.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:73
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://libdigi.unicamp.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:74
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.seixoreview.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:75
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.alfredomarceneiro.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:76
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.shampoo.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:77
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.nidearte.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:78
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.masp.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:79
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.saint-seiya.host.sk/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:80
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.dlc.ua.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:81
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fnlij.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:82
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ipv.pt/millenium/16_pers10.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:83
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dragaodomar.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:84
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.kinoforum.org/oficinas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:85
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.claudiosantoro.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:86
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://cantodalma.home.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:87
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://naoseipramais.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:88
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://www.miguelsaleslopes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:89
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://arqportugal.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:90
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://www.abrademi.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:91
+TOTAL TIME:2
+AVERAGE:2.0
+>>>>>URL:http://www.tobasign.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:92
+TOTAL TIME:2
+AVERAGE:2.0
+>>>>>URL:http://luis-cruz.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:93
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://www.musicaeeducacao.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:94
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://www.casagospel.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:95
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://www.drumming.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:96
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://www.ruipaiva.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:97
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://www.galeriaeduardohfernandes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:98
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://www.portugalfashion.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:99
+TOTAL TIME:2
+AVERAGE:2.0
+>>>>>URL:http://www.uma.pt/Unidades/Adesign/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:100
+TOTAL TIME:1
+AVERAGE:2.0
+>>>>>URL:http://www.chrystianeralf.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:101
+TOTAL TIME:0
+AVERAGE:2.0
+>>>>>URL:http://wallnosekai.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:102
+TOTAL TIME:200
+AVERAGE:4.0
+>>>>>URL:http://cupidazul.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:103
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.bibi-piaf.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:104
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://galandum.co.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:105
+TOTAL TIME:3
+AVERAGE:4.0
+TOTAL PAGES:106
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://poese.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:107
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://mariadanazare.home.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:108
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://profernando.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:109
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://abrigodepastora.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:110
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://br.groups.yahoo.com/group/garegistro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:111
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.badiassad.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:112
+TOTAL TIME:5
+AVERAGE:4.0
+>>>>>URL:http://www.ipf.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:113
+TOTAL TIME:17
+AVERAGE:4.0
+>>>>>URL:http://pulpfiction.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:114
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://animetrail.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:115
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.edping.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:116
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.mozarteum.br/new_site/web/CursosConteudos.asp?curso=11 REL:2
+>>>RELEV:299.0
+TOTAL PAGES:117
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://cororumos.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:118
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://theshavados.tripod.com/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:119
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.resistir.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:120
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.portalshakira.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:121
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.aracaju.com/galeria/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:122
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.museusegall.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:123
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://mauro-fuke.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:124
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://revistacenica.tripod.com/sitename/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:125
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.arquitectura.pt/forum/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:126
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://amalia.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:127
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://liberallibertariolibertino.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:128
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mac.usp.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:129
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://teatrolinks.com.sapo.pt/destaques.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:130
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://members.tripod.com/amigas_de_colegio/inicio.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:131
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://ohniar.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:132
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://sib.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:133
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.casatriangulo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:134
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fadocravo.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:135
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://podepalco.planetaclix.pt/podepalco.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:136
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.verinhaottoni.com/gianniamico/gianniamico/gianniamico_brazilianpress.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:137
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://novasguitarradas.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:138
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.revistabrasil.org/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.liviodemorais.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:139
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://virtuosys.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:140
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sironfranco.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:141
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.toonman.com.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:142
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://paulobordhin.free.fr/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:143
+TOTAL TIME:25
+AVERAGE:3.0
+TOTAL PAGES:144
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.rs.gov.br/marioquintana/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.angelfire.com/comics/poder_da_furia/principal.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:145
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://livroseafins.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:146
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://sonhosdomundo.zip.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:147
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.focosonoro.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:148
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fernandonoronha.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:149
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Wiki_Naruto REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:151
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://clientes.netvisao.pt/spiedade/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:152
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://nextart.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:153
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.manitu.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:154
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.quantaacademia.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:155
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://brinquedodepalavras.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:156
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://mirelafiorese.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:157
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://lostwings.blogs.sapo.pt/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:159
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.iar.unicamp.br/cpgravura/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://passos.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:160
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fotodicas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:161
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.embap.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:162
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.mariliadutra.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:163
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.artedemid.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:164
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.opoeta.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:165
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.januzzi.net/Orlando/AtalhoTV/ZazTraz.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:166
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.poetrycafe.weblog.com.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.nhardes.com/ivanilda/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.amaury-dubois.com/pt/index.php REL:2
+>>>RELEV:299.0
+TOTAL PAGES:167
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fadodecoimbra.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:168
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dominguinhos.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:169
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sanesociety.org/pt/adrianomonteiro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:170
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.minirecados.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:171
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fcsh.unl.pt/docentes/hbarbas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:172
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.eunicenazario.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:173
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://tiago_ribeiro.blogspot.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://prosacaotica.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:174
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://lagash.blogs.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:175
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.cosplayers.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:176
+TOTAL TIME:6
+AVERAGE:3.0
+>>>>>URL:http://www.ultraviolet-u2.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:177
+TOTAL TIME:13
+AVERAGE:3.0
+>>>>>URL:http://ajaneladoocaso.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:178
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.jorgeherrmann.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:179
+TOTAL TIME:14
+AVERAGE:3.0
+>>>>>URL:http://www.cidadeshistoricas.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:180
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.vidaslusofonas.pt/florbela_espanca.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:181
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://members.tripod.com/~Beto_Brazil/vozesfemininasportuguesas/index.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:182
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://tolkien.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:183
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://charlesportilho.blogspot.com/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:185
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rever.fot.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:186
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ruadebaixo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:187
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.raquelmartins.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:188
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://lilas.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:189
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://goldzveig.tripod.com/amg.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:190
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://pt.hxh.wikia.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:191
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://bigsmall.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:192
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://baru.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:193
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://galinhadotize.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:194
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.unirio.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:195
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.mam.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:196
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://pedrarara.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:197
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.zegeraldo.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.alexkoti.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:198
+TOTAL TIME:8
+AVERAGE:3.0
+>>>>>URL:http://www.marcelogreco.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:199
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rem.ufpr.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:200
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://br.groups.yahoo.com/group/sopa-de-letras/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:201
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ricardopereira.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:202
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fotodinamica.com.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:203
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.luisrepresas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:204
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.nada.com.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:205
+TOTAL TIME:327
+AVERAGE:4.0
+TOTAL PAGES:206
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.espalha.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://br.groups.yahoo.com/group/weiss_kreuz_brasil/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:207
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.mafua.ufsc.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:208
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/fushigi.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:209
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.1000imagens.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:210
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.udesc.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:211
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.arteplastica.com/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:213
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://lunae.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:214
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.7colinas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:215
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.filipe-veronica.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:216
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://pontosdevista.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:217
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.ninhodogaviao.zip.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:218
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://teoriazero.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:219
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://mariohenriques.do.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:220
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://nellyfurtadofas.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:221
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.muzplay.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:222
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://robertocarlos.globo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:223
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.marquinhosbig.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:224
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.decifra.com/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://publicidadeenganosa.comicgenesis.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:226
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.santarem.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:227
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://sites.google.com/site/literatusliteratus/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:228
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.maria-monteiro.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:229
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.cameraobscura.com/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.classifier.LinkClassifierBaseline.classify(LinkClassifierBaseline.java:72)
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:99)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:231
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.zorzenon.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:232
+TOTAL TIME:0
+AVERAGE:4.0
+TOTAL PAGES:233
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.historiasinfantis.net/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.releituras.com/aprado_menu.asp REL:2
+>>>RELEV:299.0
+TOTAL PAGES:234
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://sevahc.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:235
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.joaocoutinho.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:236
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://anger.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.iar.unicamp.br/musica/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:237
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.festivaisverao.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:238
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.monolithos.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:239
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.artes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:240
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://carlosoliveira.do.sapo.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://goldzveig.tripod.com/yuyu.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:241
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://palcomp3.com/tattereddoll/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:242
+TOTAL TIME:13
+AVERAGE:4.0
+>>>>>URL:http://www.fannyrosanier.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:243
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/jazz/trespaisaxes/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:244
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.victor.brecheret.nom.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:245
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.calix.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:246
+TOTAL TIME:0
+AVERAGE:4.0
+TOTAL PAGES:247
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.mic.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.selmmacarvalho.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:248
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://sonsdomondego.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:249
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.arteplastica.com/cristinagiannotti/crisapresenta.htm REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:251
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelovenosa.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:252
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://alexandrevargas.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:253
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://marciaapinheiro.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:254
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://arteflow.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:255
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://deleiduarte.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:256
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.daniel.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:257
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.museuoscarniemeyer.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:258
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.nelsonfaria.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:259
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.michelleme.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:260
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.eduardoprado.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:261
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.nossacasa.net/escritores/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:262
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://weblog.greenpeace.org/pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:263
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.anitube.se/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:264
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://poemasdafilipa.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:265
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.maup.nl/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://ultimate_evil.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:266
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://susanapiteira.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:267
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mdaedalus.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:268
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://sittium.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:269
+TOTAL TIME:20
+AVERAGE:3.0
+>>>>>URL:http://amaliarodrigues.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:270
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.iberecamargo.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:271
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://leopoldo.atspace.com/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:272
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fisica.ufpb.br/~romero/port/grandesautores.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:273
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.caffeteria.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:274
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.escritoriodearte.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:275
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://cgalveias.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:276
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://jaimesantos.homestead.com/jaimesantos.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:277
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://pt.wikipedia.org/wiki/Rammstein REL:2
+>>>RELEV:299.0
+TOTAL PAGES:278
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.claytonjunior.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:279
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mam.ba.gov.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:280
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://s14.invisionfree.com/FullmetalAlchemistBR REL:2
+>>>RELEV:299.0
+TOTAL PAGES:281
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://clientes.netvisao.pt/to022717/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:282
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fatimacavalieri.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:283
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://poetavampiro.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:284
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://deusasinebriantes.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:285
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angra.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:286
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.pedrocharters.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:287
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.virtualphoto.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:288
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeriaberenicearvani.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:289
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ufscar.br/~cinemais/artespera.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:290
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://gracamorais.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:291
+TOTAL TIME:3
+AVERAGE:3.0
+TOTAL PAGES:292
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://stelabarretoart.blogspot.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.jose-lucio.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:293
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mdaedalus.com/pessoa/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:294
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://pianovox.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:295
+TOTAL TIME:2
+AVERAGE:3.0
+TOTAL PAGES:296
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://joaomarianabais.com.sapo.pt/index.htm REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.bigjoemanfra.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:297
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.pollaco.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:298
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.novoslivros.online.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:299
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.amoreamor.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:300
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fpessoa.com.ar/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:301
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.isr.ist.utl.pt/~cfb/VdS/camoes.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:302
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://joacartoons.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:303
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.memorial.sp.gov.br/memorial/index.jsp REL:2
+>>>RELEV:299.0
+TOTAL PAGES:304
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portacurtas.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:305
+TOTAL TIME:8
+AVERAGE:3.0
+>>>>>URL:http://wantedman.deviantart.com/gallery/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:306
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://mef.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:307
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.letras.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:308
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ipctv.jp/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:309
+TOTAL TIME:232
+AVERAGE:4.0
+>>>>>URL:http://www.mafaldaarnauth.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:310
+TOTAL TIME:1
+AVERAGE:4.0
+TOTAL PAGES:311
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.dubiela.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.musica.ufrj.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:312
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.numb.8m.com/index.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:313
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.heltonsilva.podomatic.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:314
+TOTAL TIME:6
+AVERAGE:4.0
+>>>>>URL:http://www.mude.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:315
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.dam.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:316
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://bandatherocks.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:317
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.musicas.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:318
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.triplov.com/letras/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:319
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://pt.wikipedia.org/wiki/G%C3%AAnero_liter%C3%A1rio REL:2
+>>>RELEV:299.0
+TOTAL PAGES:320
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.unl.pt/coro REL:2
+>>>RELEV:299.0
+TOTAL PAGES:321
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.fress.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:322
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://eldes.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:323
+TOTAL TIME:6
+AVERAGE:4.0
+>>>>>URL:http://www.euronews.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:324
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.titas.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:325
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.heero-relena-4ever.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:326
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.gospelcifras.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:327
+TOTAL TIME:5
+AVERAGE:4.0
+>>>>>URL:http://www.escolademusica.ufba.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:328
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ramalho.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:329
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.margs.rs.gov.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:330
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/stars/HomeKarametade/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:331
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://rockandroll.blog.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:332
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadafotografia.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:333
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.ronaldoalvarenga.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:334
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:335
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://luisvpinto.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:336
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://ritaaragaopintora.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:337
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ocantodoparnaso.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:338
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ateiadaaranha.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:339
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://otakupt.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:340
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ri/casadosol/hhilst.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:341
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://rockafella-musicanalha.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:342
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.abelcosta.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:343
+TOTAL TIME:4
+AVERAGE:3.0
+TOTAL PAGES:344
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://poemas-de-amor.net/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.paulodecarvalho.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:345
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://danielagoncalves.do.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:346
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dconcept.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:347
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:https://www.essr.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:348
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.cavaleirosdoforro.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:349
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://palavrorios.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:350
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://joaquimmarques.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:351
+TOTAL TIME:51
+AVERAGE:3.0
+>>>>>URL:http://goldzveig.tripod.com/dai.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:352
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.goncaricaturas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:353
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cinemabrasil.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:354
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.lena-gal.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:355
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://minhamusica.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:356
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.verdesanos.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:357
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://clientes.netvisao.pt/trafaria/blog.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:358
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://tralhasvarias.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:359
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://sonsvadios.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:360
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musicajaponesa.net/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.osazeitonas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:361
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fflch.usp.br/dl/semiotica/es/busca/busca_GA-musica.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:362
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.nuno-costa.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:363
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.curtagora.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:364
+TOTAL TIME:9
+AVERAGE:3.0
+>>>>>URL:http://pt.wikipedia.org/wiki/Portal:Arte REL:2
+>>>RELEV:299.0
+TOTAL PAGES:365
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.laurarodrigues.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:366
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.profissaosamba.8k.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:367
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.gutenberg.org/ebooks/3333 REL:2
+>>>RELEV:299.0
+TOTAL PAGES:368
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.universohq.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:369
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://luiztarciso.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:370
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://oslusiadas.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:371
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.rammstein-portugal.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:372
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ricardohage.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:373
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://leonelcunha.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:374
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ufam.edu.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:375
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.rogeriotimoteo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:376
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.seujorge.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:377
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.unicamp.br/iel/memoria/Ensaios/LiteraturaInfantil/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:378
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.humaniadas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:379
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://artesanal.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:380
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:381
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.museuvillalobos.org.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.isr.ist.utl.pt/~cfb/VdS/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:382
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://pearljambyfigueira.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:383
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.jose-lucio.com/Pagina2Fado/Pagina2Fado.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:384
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.delcamp.net/forum/pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:385
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:386
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://transformers.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.neumanne.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:387
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ticavs.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:388
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fmh.utl.pt/serenatas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:389
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://mariposadeobsidiana.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:390
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cha.uevora.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:391
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ida.unb.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:392
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://acpvisual.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:393
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://poemasdeamoredor.blogs.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:394
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://users.isr.ist.utl.pt/~cfb/VdS/sa.carneiro.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:395
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.antoniochainho.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:396
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ia.unesp.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:397
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.flogvip.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:398
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.machadodeassis.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:399
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.viriatoebarcelos.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:400
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ardies.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:401
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://clientes.netvisao.pt/adduarte REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:98)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:403
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://karikamania.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:404
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://dharmaegreg.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:405
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://isaenriqueig.home.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:406
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://laboratoriodoator.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:407
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:408
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.elianegiardini.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://members.tripod.com/renebunny/index.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:409
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://aura.no.sapo.pt/index.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:410
+TOTAL TIME:217
+AVERAGE:4.0
+TOTAL PAGES:411
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://jamesbondbr.tripod.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.pintoresfamosos.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:412
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelaroro.com.br/index_angelaroro.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:413
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ofanatico.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:414
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.tarsiladoamaral.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:415
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.maritina.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:416
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.neoarte.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:417
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.whiplash.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:418
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.xente.mundo-r.com/iltrovatorechankecham/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.escola-panamericana.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:419
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.radiodj.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:420
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.supergospel.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:421
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.pegacifras.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:422
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.paulejack.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:423
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://folhadepoesia.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:424
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.lampioesemariabonita.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:425
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://marilia.livejournal.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:426
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.flavioventurini.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.cmu.eca.usp.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:427
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://lifehouse.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:428
+TOTAL TIME:2
+AVERAGE:3.0
+TOTAL PAGES:429
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dvdmagazine.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.evtagostinho.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:430
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.reggaetrade.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:431
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.puxaprariba.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:432
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.superletra.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:433
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fortesvilaca.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:434
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.anacristina.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:435
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.coraldelchiaro.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:436
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vianaphotography.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:437
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.anaflavia.com.br/100anosdemusica/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:438
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/nt/navaskaranga/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:439
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.ceferreiradecastro.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:440
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.aber.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:441
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.magicoalex.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:442
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:443
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.annamarianiemeyer.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.aleabreu.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:444
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/neymatogrosso/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:445
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://blindedfear.freeservers.com/Pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:446
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.artursantos.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:447
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.lematta.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:448
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vignamaru.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:449
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.galeriabrasiliana.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:450
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.comofazerpapel.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:451
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.musicabrasileira.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:452
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vigna.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:453
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.fotolog.net/orlandopedroso REL:2
+>>>RELEV:299.0
+TOTAL PAGES:454
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://umfernandopessoa.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:455
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/leilapinheiro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:456
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.asgalvao.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:457
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.anthony.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:458
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://pinhole.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:459
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://flog.clickgratis.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:460
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://vagalume.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:461
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.zuzo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:462
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cellus.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:463
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://ptsoft.net/tdd/conan/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:464
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.ricardocastro.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:465
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ufpb.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:466
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.luisdematos.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:467
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.raizdosana.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:468
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://alfarrabio.di.uminho.pt/arqevo/index.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:469
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.bossanova.mus.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:470
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/film/homecinema/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:471
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.marciokuhne.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:472
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.artmajeur.com/natalicaseir/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:473
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://baodimaisdaconta.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:474
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ilustrato.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:475
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://delance.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:476
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.sulamiranda.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:477
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.kakinet.com/caqui/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:478
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.kagomeinu.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:479
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:480
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.olgalebedeff.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.valinor.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:481
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.studio.seasons.nom.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:482
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.hqmaniacs.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:483
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:484
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.poemail.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.zeguilherme.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:485
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cleliairuzun.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:486
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://mmartini4.tripod.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://pedroesia.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:487
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://fimdamente.org/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:488
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cupimnamesa.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:489
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/loshermanos/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:490
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.sff.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:491
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.portaldoartesao.com.br/jurandiassis/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:492
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.jefferson.blog.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:493
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musica.ufmg.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:494
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://nanquimaquarela.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:495
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://goldzveig.tripod.com/sm.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:496
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.euclidescavaco.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:497
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ritalee.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:498
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.francishime.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:499
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cosplaybr.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:500
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dezenovevinte.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:501
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.studiofaya.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:502
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.portugal-linha.pt/literatura/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:503
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.uol.com.br/antoniocicero/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:504
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://axolotl.zip.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:505
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.viuvanegra.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:506
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.tomze.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:507
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ana-bento.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:508
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://expressoriente.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:509
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.mariateresamadeira.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:510
+TOTAL TIME:211
+AVERAGE:3.0
+>>>>>URL:http://mariahfanclub.no.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:511
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.barangarock.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:512
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.claudiomagico.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.7arte.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:513
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.infonet.com.br/mozart/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:514
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.csarmento.uminho.pt/ndat_61.asp REL:2
+>>>RELEV:299.0
+TOTAL PAGES:515
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.maskavo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:516
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.alvaroassmar.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:517
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.heatguyj.xpg.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:518
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.maria-rita.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:519
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.victorjose.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:520
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.anacarla.com/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:522
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://cifradas.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:523
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.members.tripod.com/flaviap/card.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:524
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.insistentes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:525
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rolandoboldrin.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:526
+TOTAL TIME:38
+AVERAGE:3.0
+>>>>>URL:http://acusticosevalvulados.wordpress.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:527
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.bibi-piaf.com/bibi_a.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:528
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.marchese.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:529
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lulusantos.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.casadacultura.org/Literatura/Poesia/idx_poesias.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:530
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:531
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.flogao.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.bandamadeinbrazil.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:532
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://lgonzaga.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:533
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://lpbassplayer.tripod.com/polygamya/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:534
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.tvpinguim.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:535
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-93132003000100005 REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:537
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.fotodigital-online.com/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://elzafilipa.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:538
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lygiaclark.org.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:539
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.eterna.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:540
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cameraviajante.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:541
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.marciomorais.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:542
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://jaredwindmuller.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:543
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://abrupto.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:544
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://clientes.netvisao.pt/damarofi/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:545
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.thaisfraga.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:546
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.choronas.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.adrianarocha.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:547
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:548
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.anppom.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://filarmonicaribafeita.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:549
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rhestus.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:550
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://euterpe.blog.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:551
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://letras-de-musicas.blogs.sapo.pt/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.carlosnavas.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:552
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.teolinda-gersao.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:553
+TOTAL TIME:13
+AVERAGE:3.0
+>>>>>URL:http://www.sambarocknaveia.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:554
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.c7nema.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:555
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.fisica.ufpb.br/~romero/port/ga_pa.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:556
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://marcioguilherme.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:557
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.stagium.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:558
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.galerie51.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:559
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dejavu.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:560
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.belkissdiniz.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:561
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.letrasineditas.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:562
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.limaocommel.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:563
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.atheliealquimia.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:564
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.palat.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:565
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mvhp.com.br/baixo1.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:566
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.elkemaravilha.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.arteaplicada.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:567
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.divulgacaoalternativa.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:568
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeria22.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:569
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.carladias.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:570
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.abaf.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:571
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.triosabia.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:572
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://fw.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:573
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.pt.misia-online.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:574
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://funk-brasil.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:575
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.betoguedes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:576
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://karaloka.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:577
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cifras.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:578
+TOTAL TIME:12
+AVERAGE:3.0
+>>>>>URL:http://www.bancodaimagem.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:579
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.quaternaglia.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:580
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.pcosta.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:581
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.raizesrasta.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:582
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.jorgebispo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:583
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.kinoforum.org/curtas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:584
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sobresites.com/arquitetura/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:585
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.spo.matrix.com.br/rudigher/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:586
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.astormentas.com/florbela.htm REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.bolsadearte.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:587
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://antoniocarloscd.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:588
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.revistas.ufg.br/index.php/musica/index REL:2
+>>>RELEV:299.0
+TOTAL PAGES:589
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://movethatjukebox.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:590
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cotianet.com.br/photo/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:591
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.areae.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:592
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://comunicacionpatrimoniomundial.blogia.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:593
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.misteriosdecaliope.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:594
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ariprotazio.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:595
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ab3/welcometoxfiles/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://harpad.com.sapo.pt/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:596
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://maiadesenhos.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:597
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.orc.art.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:598
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.hannabarbera.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:599
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.nihilo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:600
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.gutograca.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:601
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.portalartes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:602
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musicabase.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:603
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dmbrasil.net/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:604
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/leonilson REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+	at focusedCrawler.link.classifier.LinkClassifierBaseline.classify(LinkClassifierBaseline.java:72)
+	at focusedCrawler.link.BipartiteGraphManager.insertOutlinks(BipartiteGraphManager.java:99)
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:128)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:606
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://focusfoto.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:607
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeriamariliarazuk.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:608
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.yulagabriela.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:609
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.choquecultural.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:610
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.nenhumdenos.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:611
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:612
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.pintoresfamosos.com.br/?pg=klimt REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.u2alive.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:613
+TOTAL TIME:229
+AVERAGE:3.0
+>>>>>URL:http://www.joaofelintoneto.xpg.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:614
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.art-bonobo.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:615
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.william.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:616
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.animedreams.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:617
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://matrixbrasil.tripod.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:618
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.tunai.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:619
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://galeriadoricardo.com.sapo.pt/index.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:620
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://bluesbeatandbeer.blogspot.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:621
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.anadehollanda.com.br/index_anadehollanda.htm REL:2
+>>>RELEV:299.0
+>>>>>URL:http://sites.google.com/site/wilsonfreitasretratos REL:2
+>>>RELEV:299.0
+TOTAL PAGES:622
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.dlc.ua.pt/classicos/agora.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:623
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.marisamonte.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:624
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musiclbm.com/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:625
+TOTAL TIME:0
+AVERAGE:3.0
+LOADED: 100000
+>> TOTAL LOADED: 355
+TOTAL PAGES:626
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.stelle.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:627
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.literario.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:628
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.poashow.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:629
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.armandinhoebanda.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:630
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rejaneluna.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:631
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.alfredodiasgomes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:632
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.luizaestrella.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:633
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.somnachapa.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:634
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sitedefotos.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.longoalcance.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:635
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/pedromariano/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:636
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:637
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.elle.abril.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.espacozero.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.agentedacerto.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:638
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.quartetoemcy.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:639
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.letrasdemusica.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.ceumar.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:640
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/10paezinhos/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:641
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.entermagazine.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:642
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.verveweb.com.br/gaijin2/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:643
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.chamachuva.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:644
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.robertocorrea.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:645
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dlestudio.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:646
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:647
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.alltv.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.webcine.com.br/filmessi/greenmil.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:648
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://mangasjbc.uol.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:649
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.djavan.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:650
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dinhonascimento.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:651
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lularibeiro.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:652
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.gospeldownloads.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.ivoviuauva.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:653
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.bibliotecadeletras.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:654
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.celiaecelma.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:655
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arcoweb.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:656
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rickymartin.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:657
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.leela.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:658
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.portaisdamoda.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.adelmariocoelho.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:659
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.mrego.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:660
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.megaflog.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:661
+TOTAL TIME:83
+AVERAGE:3.0
+>>>>>URL:http://www.ultraje.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:662
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://elfico.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:663
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ressacafriends.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:664
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.joaobosco.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:665
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.paulodarzegaleria.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:666
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.biquini.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:667
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.silviabrum.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:668
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.thalesethiago.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.musiconline.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:669
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cronopios.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:670
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.suelicosta.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:671
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.taizen.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:672
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cleaespindola.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:673
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.toquinho.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:674
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/alceuvalenca/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:675
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://rodrigopiva.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:676
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.autobahn.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.edvaldosantana.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:677
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guilhermeegustavo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:678
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rastape.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:679
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.babiws.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:680
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeriapaulistana.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:681
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vanessabarum.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:682
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.rockgaucho.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:683
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.bandamantiqueira.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:684
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.henceforth.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:685
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.animaniaclub.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:686
+TOTAL TIME:47
+AVERAGE:3.0
+>>>>>URL:http://www.galeriamillan.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:687
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.webviolin.xpg.com.br/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.sitedoaran.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:689
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://leonardo.uol.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:690
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://flogbrasil.terra.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.clicio.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:691
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mvhp.com.br/index.htm REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.sitengenharia.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:692
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/ritaribeiro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:693
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guilhermerondon.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:694
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.alemuniz.elo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:695
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arnaldoantunes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:696
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/ohayo/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:697
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.netpar.com.br/fernandobit/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:698
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.wolfborges.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:699
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.caetanoveloso.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:700
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.chicobuarque.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:701
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeria.anitaschwartz.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:702
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://centraldemangas.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:703
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cineminha.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.antuliomadureira.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:704
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.carlosdrummond.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://chitaoxororo.uol.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:705
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lobobrasil.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:706
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.flogao.com.br/blogkagomeinu REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.guitarplayer.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.loshermanos.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:707
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.band.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:708
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.nacascadoovo.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.danielhdr.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:709
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.velhasvirgens.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:710
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lyrics.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:711
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.anaesmeralda.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:712
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.marygeluda.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:713
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.joanna.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.mundofotografico.com.br/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:715
+TOTAL TIME:222
+AVERAGE:3.0
+TOTAL PAGES:716
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.mythicalsleuthloki.xpg.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://caminhantediurno.blogspot.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:717
+TOTAL TIME:11
+AVERAGE:3.0
+>>>>>URL:http://www.carloscareqa.com.br/ REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:719
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cronistasreunidos.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:720
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.jerryadriani.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.mude.pt/publicacoes//mobiliario-para-edificios-publicos-portugal-19341974_31 REL:1
+>>>RELEV:199.0
+TOTAL PAGES:721
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/directorios.html REL:1
+>>>RELEV:199.0
+TOTAL PAGES:722
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/mauricio-martins/18193 REL:1
+>>>RELEV:199.0
+TOTAL PAGES:723
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:724
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.art-bonobo.com/artes/ivanmariotti/welcome.html REL:1
+>>>RELEV:199.0
+>>>>>URL:http://weblog.greenpeace.org/international/en/multimedia/ship-webcams/Rainbow-Warrior-Webcam/ REL:1
+>>>RELEV:198.0
+>>>>>URL:http://www.unl.pt/pt/directorio/Mapa_do_Site/pid=85/ REL:1
+>>>RELEV:198.0
+TOTAL PAGES:725
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/edinhogoulart/28441 REL:1
+>>>RELEV:198.0
+TOTAL PAGES:726
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/ovas.html REL:1
+>>>RELEV:197.0
+TOTAL PAGES:727
+TOTAL TIME:43
+AVERAGE:3.0
+>>>>>URL:http://lagash.blogs.sapo.pt/tag/m%C3%A1rio+l.+soares REL:1
+>>>RELEV:197.0
+TOTAL PAGES:728
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/4596-arquitectura-de-interiores-fautl/?do=getLastComment REL:1
+>>>RELEV:197.0
+TOTAL PAGES:729
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://lagash.blogs.sapo.pt/tag/l%C3%ADrios REL:1
+>>>RELEV:196.0
+TOTAL PAGES:730
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario38.html REL:1
+>>>RELEV:196.0
+TOTAL PAGES:731
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/fichade.html REL:1
+>>>RELEV:195.0
+TOTAL PAGES:732
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/outros.html REL:1
+>>>RELEV:194.0
+TOTAL PAGES:733
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:DHSC REL:1
+>>>RELEV:194.0
+TOTAL PAGES:734
+TOTAL TIME:8
+AVERAGE:3.0
+>>>>>URL:http://www.unirio.br/localizacao-dos-campi REL:1
+>>>RELEV:194.0
+TOTAL PAGES:735
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.hqmaniacs.com/Gotham_escala_seu_Sr_Frio_52732.html REL:1
+>>>RELEV:194.0
+TOTAL PAGES:736
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.unirio.br/news/unirio-confere-titulo-de-professor-benemerito-a-docentes-das-escolas-de-medicina-e-enfermagem REL:1
+>>>RELEV:193.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/misterio.html REL:1
+>>>RELEV:193.0
+TOTAL PAGES:737
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://galerialeme.com/calendario/ REL:1
+>>>RELEV:193.0
+TOTAL PAGES:738
+TOTAL TIME:6
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/10.mp3 REL:1
+>>>RELEV:192.0
+TOTAL PAGES:739
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ida.unb.br/calendario REL:1
+>>>RELEV:191.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:741
+TOTAL TIME:69
+AVERAGE:3.0
+TOTAL PAGES:742
+TOTAL TIME:3
+AVERAGE:3.0
+TOTAL PAGES:743
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/explore/blogs/alem-da-agenda/inauguracao-e-visitacao-da-arvore-de-natal-afetam-transito-na-regiao-do-auditorio-ibirapuera REL:1
+>>>RELEV:191.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/meus-gibis/jl-monteiro/2825 REL:1
+>>>RELEV:191.0
+>>>>>URL:http://portacurtas.org.br/busca/advancedSearch.aspx?field=tema%20palavra%20chave&amp;term=rio_de_janeiro REL:1
+>>>RELEV:190.0
+TOTAL PAGES:744
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.paulejack.com/magicas/cabeca-mario-k REL:1
+>>>RELEV:189.0
+TOTAL PAGES:745
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.aber.org.br/localiza%C3%A7%C3%A3o-e-hor%C3%A1rios REL:1
+>>>RELEV:189.0
+TOTAL PAGES:746
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/explore/observatorio REL:1
+>>>RELEV:189.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/atualizacoes.html REL:1
+>>>RELEV:189.0
+TOTAL PAGES:747
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:748
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.casadacultura.org/Literatura/Poesia/g02/Mundo_tao_complicado_Mario_Auvim.html REL:1
+>>>RELEV:189.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario31.html REL:1
+>>>RELEV:189.0
+TOTAL PAGES:749
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/forum/75-laborat&oacute;rio-de-ideias-big-hand/ REL:1
+>>>RELEV:188.0
+TOTAL PAGES:750
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/pt/directorio/Contactos/pid=86/ REL:1
+>>>RELEV:187.0
+>>>>>URL:http://www.nossacasa.net/literatura/default.asp?autor=Gregório%20de%Matosde&grupo=1 REL:1
+>>>RELEV:187.0
+TOTAL PAGES:751
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://abrupto.blogspot.com/2015/11/diario-de-um-tempo-diferente-23-que.html REL:1
+>>>RELEV:187.0
+TOTAL PAGES:752
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://movethatjukebox.com/ouca-alegria-single-de-estreia-do-trio-paulistano-barbarie/ REL:1
+>>>RELEV:186.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:754
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario22.html REL:1
+>>>RELEV:186.0
+TOTAL PAGES:755
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ufam.edu.br/index.php/eventos/4722-professor-da-universidade-do-mexico-ministra-conferencia-em-seminario-internacional-de-01-a-03-de-dezembro REL:1
+>>>RELEV:186.0
+TOTAL PAGES:756
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.portalshakira.com/index.php/news/content/34-curiosidades/ REL:1
+>>>RELEV:186.0
+TOTAL PAGES:757
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadafotografia.com/_fotografia_cotidiano REL:1
+>>>RELEV:186.0
+TOTAL PAGES:758
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/edicao/um-brasileiro-chamado-ze-carioca/um003102/120458 REL:1
+>>>RELEV:185.0
+TOTAL PAGES:759
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.gospelcifras.com/dicionario/ REL:1
+>>>RELEV:185.0
+TOTAL PAGES:760
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.1000imagens.com/comentarios.asp REL:1
+>>>RELEV:184.0
+TOTAL PAGES:761
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://pt.hxh.wikia.com/wiki/Leorio_Paradinight REL:1
+>>>RELEV:183.0
+TOTAL PAGES:762
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.musica.ufmg.br/funcionarios.html REL:1
+>>>RELEV:183.0
+TOTAL PAGES:763
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.musica-portuguesa.com/_artista-mario-gil.htm REL:1
+>>>RELEV:183.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/osorio1.html REL:1
+>>>RELEV:183.0
+TOTAL PAGES:764
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/wellersonbs/67837 REL:1
+>>>RELEV:182.0
+TOTAL PAGES:765
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/meus-gibis/levy-guimenes/1562 REL:1
+>>>RELEV:181.0
+TOTAL PAGES:766
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.mac.usp.br/mac/conteudo/formulario/masterpage.asp REL:1
+>>>RELEV:180.0
+TOTAL PAGES:767
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.musica.ufrj.br/index.php?option=com_content&amp;view=article&amp;id=1590:calendario-academico-2014&amp;catid=89:notas&amp;Itemid=86 REL:1
+>>>RELEV:180.0
+TOTAL PAGES:768
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/5.mp3 REL:1
+>>>RELEV:179.0
+TOTAL PAGES:769
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://weblog.greenpeace.org/international/en/about/ships/the-rainbow-warrior/ REL:1
+>>>RELEV:179.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:771
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.luso-poemas.net/modules/aniversario/ REL:1
+>>>RELEV:179.0
+>>>>>URL:http://poemasdeamoredor.blogs.sapo.pt/tag/rog%C3%A9rio+martins+sim%C3%B5es REL:1
+>>>RELEV:178.0
+TOTAL PAGES:772
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.triplov.com/Britiande/Maria-do-Pilar-Osorio/index.htm REL:1
+>>>RELEV:178.0
+TOTAL PAGES:773
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/nd/fyjogomisterioso/letrasde.html REL:1
+>>>RELEV:178.0
+TOTAL PAGES:774
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuarios/ REL:1
+>>>RELEV:178.0
+TOTAL PAGES:775
+TOTAL TIME:160
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario34.html REL:1
+>>>RELEV:177.0
+TOTAL PAGES:776
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario16.html REL:1
+>>>RELEV:177.0
+TOTAL PAGES:777
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/12657-empresas-de-mobiliario-de-escrit&oacute;rio/?do=getLastComment REL:1
+>>>RELEV:176.0
+TOTAL PAGES:778
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/tradues.html REL:1
+>>>RELEV:176.0
+TOTAL PAGES:779
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ruadebaixo.com/vodafone-paredes-de-coura-promove-leilao-solidario-com-telas-ineditas-de-tame-impala-lykke-li-e-tv-on-the-radio-01-12-2015.html REL:1
+>>>RELEV:176.0
+TOTAL PAGES:780
+TOTAL TIME:13
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario28.html REL:1
+>>>RELEV:176.0
+TOTAL PAGES:781
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.amoreamor.com/frases-de-adulterio.html REL:1
+>>>RELEV:175.0
+TOTAL PAGES:782
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dragaodomar.org.br/planetario/index.php REL:1
+>>>RELEV:175.0
+TOTAL PAGES:783
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.triplov.com/letras/Mario-Dirienzo/index.htm REL:1
+>>>RELEV:175.0
+TOTAL PAGES:784
+TOTAL TIME:7
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/diego-torralbo/60817 REL:1
+>>>RELEV:175.0
+TOTAL PAGES:785
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/bernardo-silveira/67838 REL:1
+>>>RELEV:174.0
+TOTAL PAGES:786
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario9.html REL:1
+>>>RELEV:174.0
+TOTAL PAGES:787
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.minirecados.com/mensagens_de_aniversario_para_amiga/ REL:1
+>>>RELEV:174.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario4.html REL:1
+>>>RELEV:174.0
+TOTAL PAGES:788
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario21.html REL:1
+>>>RELEV:173.0
+TOTAL PAGES:789
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/wallpape.html REL:1
+>>>RELEV:173.0
+TOTAL PAGES:790
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.confoto.art.br/fotografia/cursos-workshop/132-curso-completo-de-fotografia-em-belo-horizonte-e-rio-de-janeiro.html REL:1
+>>>RELEV:172.0
+TOTAL PAGES:791
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.nossacasa.net/literatura/default.asp?autor=Mário%20de%20Andrade&grupo=1 REL:1
+>>>RELEV:172.0
+TOTAL PAGES:792
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/programe-se/agenda/eventos-anteriores/ REL:1
+>>>RELEV:171.0
+TOTAL PAGES:793
+TOTAL TIME:63
+AVERAGE:3.0
+TOTAL PAGES:794
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.c7nema.net/critica/item/44153-anomalisa-por-paulo-portugal.html REL:1
+>>>RELEV:170.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://sib.org.br/coluna-sib/juca-ferreira-esta-de-volta-cenas-dos-capitulos-anteriores/ REL:1
+>>>RELEV:170.0
+TOTAL PAGES:796
+TOTAL TIME:0
+AVERAGE:3.0
+TOTAL PAGES:797
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/2.mp3 REL:1
+>>>RELEV:170.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:799
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ufrgs.br/ufrgs/noticias/restaurantes-universitarios-da-saude-e-da-informatica-reabrem-para-jantar REL:1
+>>>RELEV:169.0
+TOTAL PAGES:800
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://pedroesia.blogspot.com/2011/07/o-glorioso-afogamento-da-aranha.html REL:1
+>>>RELEV:168.0
+TOTAL PAGES:801
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/canal-radio/jorge-ceruto-no-auditorio-ibirapuera/ REL:1
+>>>RELEV:168.0
+TOTAL PAGES:802
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/jipinho/67843 REL:1
+>>>RELEV:167.0
+TOTAL PAGES:803
+TOTAL TIME:12
+AVERAGE:3.0
+>>>>>URL:http://members.tripod.com/~Goldzveig/escritorio.html REL:1
+>>>RELEV:167.0
+TOTAL PAGES:804
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.musicaeeducacao.mus.br/discos/2015_Gilblack_ViajantesdeOrion.zip REL:1
+>>>RELEV:166.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:806
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.filipe-veronica.com/duo-musical-filipe-veronica-formulario.htm REL:1
+>>>RELEV:166.0
+TOTAL PAGES:807
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musica-portuguesa.com/_artista_paulo_gonzo.htm REL:1
+>>>RELEV:166.0
+TOTAL PAGES:808
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.c7nema.net/critica/item/44504-amnesia-por-paulo-portugal-amnesia.html REL:1
+>>>RELEV:165.0
+>>>>>URL:http://www.musica-portuguesa.com/_cantor-marco-paulo.htm REL:1
+>>>RELEV:165.0
+TOTAL PAGES:809
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/12657-empresas-de-mobiliario-de-escrit&oacute;rio/?do=getNewComment REL:1
+>>>RELEV:164.0
+TOTAL PAGES:810
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/edicao-estrangeira/new-york-worlds-fair-n-2/2141/22786 REL:1
+>>>RELEV:163.0
+>>>>>URL:http://www.unl.pt/pt/directorio/Links_uteis/pid=89/ REL:1
+>>>RELEV:163.0
+TOTAL PAGES:811
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fames.es.gov.br/pagina/10_Quadro-de-Horarios.html REL:1
+>>>RELEV:163.0
+TOTAL PAGES:812
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.abaf.art.br/index.php?mod=Seminarios REL:1
+>>>RELEV:162.0
+TOTAL PAGES:813
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Emilly_gaby REL:1
+>>>RELEV:162.0
+TOTAL PAGES:814
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ufrgs.br/ufrgs/noticias/calendario-academico-2016 REL:1
+>>>RELEV:161.0
+TOTAL PAGES:815
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.triplov.com/letras/dario_alves/index.htm REL:1
+>>>RELEV:161.0
+TOTAL PAGES:816
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.portalshakira.com/index.php/news/4-anos-de-shakira-no-rock-in-rio-brasil-relembre-conosco REL:1
+>>>RELEV:161.0
+TOTAL PAGES:817
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario8.html REL:1
+>>>RELEV:160.0
+TOTAL PAGES:818
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.maria-rita.com/blog/index.php/agenda/rio-de-janeiro-rj-15/ REL:1
+>>>RELEV:159.0
+>>>>>URL:http://www.c7nema.net/outras-criticas/item/43092-knight-of-cups-por-paulo-portugal.html REL:1
+>>>RELEV:159.0
+TOTAL PAGES:819
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/8.mp3 REL:1
+>>>RELEV:159.0
+TOTAL PAGES:820
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://movethatjukebox.com/estreia-casa-verde-sessions-com-buffalo-trio-tocando-glowing-trees-ao-vivo/ REL:1
+>>>RELEV:158.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:822
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/pt/directorio/Onde_estamos/pid=87/ REL:1
+>>>RELEV:158.0
+TOTAL PAGES:823
+TOTAL TIME:272
+AVERAGE:4.0
+>>>>>URL:http://www.unirio.br/institucional/auditorios-anfiteatros-e-teatros REL:1
+>>>RELEV:157.0
+TOTAL PAGES:824
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.musica-portuguesa.com/_augusto-canario.htm REL:1
+>>>RELEV:157.0
+TOTAL PAGES:825
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portacurtas.org.br/relatorios_patrocinador/ REL:1
+>>>RELEV:157.0
+TOTAL PAGES:826
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/jonathansb/67840 REL:1
+>>>RELEV:157.0
+TOTAL PAGES:827
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario23.html REL:1
+>>>RELEV:157.0
+TOTAL PAGES:828
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario36.html REL:1
+>>>RELEV:156.0
+TOTAL PAGES:829
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/9.mp3 REL:1
+>>>RELEV:156.0
+TOTAL PAGES:830
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/edson-diogo/1 REL:1
+>>>RELEV:156.0
+TOTAL PAGES:831
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.nada.com.pt/?p=pesquisa&amp;q=Criogenia&amp;r=0&amp;l=pt REL:1
+>>>RELEV:156.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:833
+TOTAL TIME:36
+AVERAGE:4.0
+>>>>>URL:http://www.maria-rita.com/blog/index.php/fotos/rock-in-rio-2013/ REL:1
+>>>RELEV:155.0
+TOTAL PAGES:834
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.musica.ufmg.br/textos/EDITAL04_Conservatorio2016.docx REL:1
+>>>RELEV:155.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.triplov.com/letras/Dicionario-Ordens/index.html REL:1
+>>>RELEV:155.0
+TOTAL PAGES:836
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.ruadebaixo.com/o-guardiao-do-rio-teatro-trindade-05-11-2014.html REL:1
+>>>RELEV:155.0
+TOTAL PAGES:837
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.triplov.com/letras/dicionario/index.htm REL:1
+>>>RELEV:154.0
+TOTAL PAGES:838
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/links.html REL:1
+>>>RELEV:153.0
+TOTAL PAGES:839
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.minirecados.com/feliz_aniversario_mensagem/ REL:1
+>>>RELEV:153.0
+TOTAL PAGES:840
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/meus-gibis/fabiano-enoque/2819 REL:1
+>>>RELEV:153.0
+>>>>>URL:http://www.casagospel.com/hoje-e-dia-de-festival-promessas-em-sao-paulo/ REL:1
+>>>RELEV:153.0
+TOTAL PAGES:841
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario24.html REL:1
+>>>RELEV:152.0
+TOTAL PAGES:842
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario33.html REL:1
+>>>RELEV:152.0
+TOTAL PAGES:843
+TOTAL TIME:0
+AVERAGE:4.0
+TOTAL PAGES:844
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://livroseafins.com/arte-urbana-em-sao-paulo/ REL:1
+>>>RELEV:152.0
+>>>>>URL:http://www.itaucultural.org.br/canal-radio/ronen-altman-no-auditorio-ibirapuera/ REL:1
+>>>RELEV:151.0
+TOTAL PAGES:845
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.euronews.com/travel/3101006-new-york-promises-biggest-city-electric-fleet-in-us REL:1
+>>>RELEV:151.0
+>>>>>URL:http://weblog.greenpeace.org/international/en/news/Blogs/makingwaves/Minas-gerais-mining-dam-collapse-mud-flood-rio-doce/blog/54787/ REL:1
+>>>RELEV:151.0
+TOTAL PAGES:846
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario10.html REL:1
+>>>RELEV:150.0
+TOTAL PAGES:847
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.universohq.com/noticias/scott-mccloud-horarios-das-sessoes-de-autografos-na-ccxp-2015/ REL:1
+>>>RELEV:150.0
+TOTAL PAGES:848
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/renato-pires/67841 REL:1
+>>>RELEV:149.0
+TOTAL PAGES:849
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.hqmaniacs.com/Mercurio_em_X-Men_Apocalipse_52793.html REL:1
+>>>RELEV:149.0
+TOTAL PAGES:850
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://www.amoreamor.com/busca.php?q=poesias+vinicius+morais+que+fale+rio+janeiro&t=poesia REL:1
+>>>RELEV:148.0
+TOTAL PAGES:851
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://www.triplov.com/letras/paulo_azevedo_chaves/index.htm REL:1
+>>>RELEV:148.0
+TOTAL PAGES:852
+TOTAL TIME:4
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario15.html REL:1
+>>>RELEV:148.0
+TOTAL PAGES:853
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.minirecados.com/aniversario/ REL:1
+>>>RELEV:148.0
+TOTAL PAGES:854
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/diego-zenateli-moreto/46748 REL:1
+>>>RELEV:147.0
+TOTAL PAGES:855
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Fwy REL:1
+>>>RELEV:147.0
+TOTAL PAGES:856
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.rammstein-portugal.com/noticias/novo-trailer-do-documentario-de-rammstein-in-amerika/ REL:1
+>>>RELEV:146.0
+TOTAL PAGES:857
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.minirecados.com/mensagens_de_aniversario_para_namorado/ REL:1
+>>>RELEV:146.0
+TOTAL PAGES:858
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.mafua.ufsc.br/?categoria=anteriores REL:1
+>>>RELEV:145.0
+TOTAL PAGES:859
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://poemasdeamoredor.blogs.sapo.pt/tag/rog%C3%A9rio+sim%C3%B5es REL:1
+>>>RELEV:142.0
+TOTAL PAGES:860
+TOTAL TIME:9
+AVERAGE:4.0
+>>>>>URL:http://lagash.blogs.sapo.pt/tag/frio REL:1
+>>>RELEV:142.0
+TOTAL PAGES:861
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://www.unirio.br/orgaos-suplementares/hospital-universitario-gaffree-e-guinle REL:1
+>>>RELEV:142.0
+TOTAL PAGES:862
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario25.html REL:1
+>>>RELEV:142.0
+TOTAL PAGES:863
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Noctis_Uchiha REL:1
+>>>RELEV:141.0
+TOTAL PAGES:864
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/banners.html REL:1
+>>>RELEV:140.0
+TOTAL PAGES:865
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.ufam.edu.br/index.php/eventos/4713-editora-da-ufam-e-instituto-goethe-lancam-livros-em-sao-paulo REL:1
+>>>RELEV:140.0
+TOTAL PAGES:866
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://www.nossacasa.net/literatura/default.asp?autor=Mario%20Benedetti&grupo=2 REL:1
+>>>RELEV:140.0
+TOTAL PAGES:867
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.universohq.com/filmes/resenha-thor-2-o-mundo-sombrio/ REL:1
+>>>RELEV:139.0
+TOTAL PAGES:868
+TOTAL TIME:2
+AVERAGE:4.0
+>>>>>URL:http://www.ufam.edu.br/index.php/2013-04-29-19-37-05/arquivo-de-noticias/4723-eleicao-para-os-conselhos-superiores-acontecem-no-dia-09-de-dezembro REL:1
+>>>RELEV:139.0
+TOTAL PAGES:869
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://pt.hxh.wikia.com/wiki/Leorio REL:1
+>>>RELEV:139.0
+TOTAL PAGES:870
+TOTAL TIME:3
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario30.html REL:1
+>>>RELEV:138.0
+TOTAL PAGES:871
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario1.html REL:1
+>>>RELEV:138.0
+TOTAL PAGES:872
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.fames.es.gov.br/pagina/62_Calendario-Academico-2015.html REL:1
+>>>RELEV:138.0
+TOTAL PAGES:873
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://galandum.co.pt/sites/all/themes/acquia_slate/local.css?u REL:1
+>>>RELEV:138.0
+TOTAL PAGES:874
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario17.html REL:1
+>>>RELEV:137.0
+TOTAL PAGES:875
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario12.html REL:1
+>>>RELEV:137.0
+TOTAL PAGES:876
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.paulejack.com/eventos/ultimos-eventos/68-show-de-salao/667-atracao-para-festa-surpresa-de-adulto-com-show-do-magico-paul-jack-em-sao-paulo REL:1
+>>>RELEV:136.0
+TOTAL PAGES:877
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.triplov.com/letras/paulo_alexandre_pereira/index.htm REL:1
+>>>RELEV:136.0
+TOTAL PAGES:878
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/ri/casadosol/diario.html REL:1
+>>>RELEV:135.0
+TOTAL PAGES:879
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario11.html REL:1
+>>>RELEV:135.0
+TOTAL PAGES:880
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario3.html REL:1
+>>>RELEV:135.0
+TOTAL PAGES:881
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.festivaisverao.com/Agenda/Concertos/943-MUSICBOX-9º-Aniversario.html REL:1
+>>>RELEV:135.0
+TOTAL PAGES:882
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.udesc.br/?idFormulario=31 REL:1
+>>>RELEV:134.0
+TOTAL PAGES:883
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/conheca/observatorio-itau-cultural REL:1
+>>>RELEV:134.0
+TOTAL PAGES:884
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.unirio.br/conselhos-superiores REL:1
+>>>RELEV:134.0
+TOTAL PAGES:885
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.ufrgs.br/ufrgs/noticias/aluno-da-ufrgs-conquista-o-primeiro-lugar-no-premio-tok-stok-de-design-universitario REL:1
+>>>RELEV:134.0
+TOTAL PAGES:886
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Lukas_Pessoa_Dantas REL:1
+>>>RELEV:133.0
+TOTAL PAGES:887
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.minirecados.com/feliz_aniversario/ REL:1
+>>>RELEV:133.0
+TOTAL PAGES:888
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/marcio-canovas/56251 REL:1
+>>>RELEV:132.0
+TOTAL PAGES:889
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/conheca/observatorio-itau-cultural/ REL:1
+>>>RELEV:132.0
+TOTAL PAGES:890
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/4596-arquitectura-de-interiores-fautl/?do=getNewComment REL:1
+>>>RELEV:132.0
+TOTAL PAGES:891
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/conheca/auditorio-ibirapuera REL:1
+>>>RELEV:131.0
+TOTAL PAGES:892
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/edsonlaurent/67835 REL:1
+>>>RELEV:131.0
+TOTAL PAGES:893
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://cantodalma.home.sapo.pt/Repertorio.html REL:1
+>>>RELEV:131.0
+TOTAL PAGES:894
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.triplov.com/letras/mario_montaut/index.htm REL:1
+>>>RELEV:130.0
+TOTAL PAGES:895
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/resumoda.html REL:1
+>>>RELEV:130.0
+TOTAL PAGES:896
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.ipctv.jp/ipctv-news/1103-inicio-do-horario-de-verao-no-brasil2015.html REL:1
+>>>RELEV:128.0
+TOTAL PAGES:897
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.casadacultura.org/Literatura/Poesia/g01/agostina_rio.html REL:1
+>>>RELEV:128.0
+TOTAL PAGES:898
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://lagash.blogs.sapo.pt/tag/anivers%C3%A1rio REL:1
+>>>RELEV:128.0
+>>>>>URL:http://www.lendo.org/relatorio-estagio-supervisionado-licenciatura-letras/ REL:1
+>>>RELEV:127.0
+TOTAL PAGES:899
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/3.mp3 REL:1
+>>>RELEV:127.0
+TOTAL PAGES:900
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/1.mp3 REL:1
+>>>RELEV:127.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:903
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.c7nema.net/critica/item/44203-600-miles-por-paulo-portugal.html REL:1
+>>>RELEV:127.0
+TOTAL PAGES:904
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.ufam.edu.br/index.php/eventos/4740-programacao-especial-do-coral-universitario-da-ufam-com-apresentacao-no-teatro-amazonas REL:1
+>>>RELEV:126.0
+TOTAL PAGES:905
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/faq.html REL:1
+>>>RELEV:126.0
+TOTAL PAGES:906
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario5.html REL:1
+>>>RELEV:125.0
+TOTAL PAGES:907
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://portacurtas.org.br/filme/?name=recife_frio REL:1
+>>>RELEV:124.0
+TOTAL PAGES:908
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ipf.pt/Calendario/ REL:1
+>>>RELEV:124.0
+TOTAL PAGES:909
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario26.html REL:1
+>>>RELEV:123.0
+TOTAL PAGES:910
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario29.html REL:1
+>>>RELEV:123.0
+TOTAL PAGES:911
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ufrgs.br/ufrgs/noticias/astronomusic-realiza-concerto-no-planetario-da-ufrgs REL:1
+>>>RELEV:122.0
+TOTAL PAGES:912
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario13.html REL:1
+>>>RELEV:122.0
+TOTAL PAGES:913
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ipctv.jp/novelas/7-novela2/189-24--10-margot-comenta-com-patricia-que-pensa-em-voltar-para-nova-york-.html REL:1
+>>>RELEV:122.0
+TOTAL PAGES:914
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/4.mp3 REL:1
+>>>RELEV:122.0
+>>>>>URL:http://nunomedeiros.planetaclix.pt/index_a_casa_de_asterion___asterion_house.html REL:1
+>>>RELEV:121.0
+>>>>>URL:http://www.c7nema.net/premios/item/44545-15-filmes-avancam-na-corrida-ao-oscar-de-melhor-documentario.html REL:1
+>>>RELEV:121.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:916
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://deusasinebriantes.blogspot.com/p/delirio-coletivo-news-golds-tudo-junto.html REL:1
+>>>RELEV:121.0
+TOTAL PAGES:917
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.fames.es.gov.br/noticiasView/72118_MB-Trio-lanca-o-CD-Primavera.html REL:1
+>>>RELEV:121.0
+TOTAL PAGES:918
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario18.html REL:1
+>>>RELEV:121.0
+TOTAL PAGES:919
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario32.html REL:1
+>>>RELEV:120.0
+TOTAL PAGES:920
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario27.html REL:1
+>>>RELEV:119.0
+TOTAL PAGES:921
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario7.html REL:1
+>>>RELEV:119.0
+TOTAL PAGES:922
+TOTAL TIME:1
+AVERAGE:3.0
+TOTAL PAGES:923
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.hqmaniacs.com/Ze_Carioca_e_mais_uma_capa_dura_da_Disney_52537.html REL:1
+>>>RELEV:118.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario37.html REL:1
+>>>RELEV:117.0
+TOTAL PAGES:924
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario14.html REL:1
+>>>RELEV:116.0
+TOTAL PAGES:925
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario2.html REL:1
+>>>RELEV:116.0
+TOTAL PAGES:926
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ceferreiradecastro.org/?id=comentario&amp;d=15&amp;m=12 REL:1
+>>>RELEV:116.0
+TOTAL PAGES:927
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.verinhaottoni.com/gianniamico/gianniamico/gianniamico_brazilian_paulo.html REL:1
+>>>RELEV:115.0
+TOTAL PAGES:928
+TOTAL TIME:195
+AVERAGE:4.0
+>>>>>URL:http://www.lendo.org/aprendizado-acelerado/organizar-horario-estudos-dicas/ REL:1
+>>>RELEV:115.0
+TOTAL PAGES:929
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.casadacultura.org/Literatura/Poesia/g01/calvario_tonho_franca.html REL:1
+>>>RELEV:115.0
+TOTAL PAGES:930
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.casadacultura.org/Literatura/Poesia/Links/Links_Guias_Diretorios_Referencia.html REL:1
+>>>RELEV:115.0
+TOTAL PAGES:931
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario35.html REL:1
+>>>RELEV:115.0
+TOTAL PAGES:932
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.letrasineditas.com/index.php/feliz-aniversario REL:1
+>>>RELEV:114.0
+TOTAL PAGES:933
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario19.html REL:1
+>>>RELEV:114.0
+TOTAL PAGES:934
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/ne/fyjogomisterioso/aniversarios.html REL:1
+>>>RELEV:114.0
+TOTAL PAGES:935
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.minirecados.com/mensagem_de_aniversario_para_sobrinha/ REL:1
+>>>RELEV:113.0
+TOTAL PAGES:936
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.cmu.eca.usp.br/cmu/laboratorios REL:1
+>>>RELEV:112.0
+TOTAL PAGES:937
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.triplov.com/poesia/mario_melendez/index.htm REL:1
+>>>RELEV:112.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:939
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.universohq.com/category/recordatorio/ REL:1
+>>>RELEV:112.0
+>>>>>URL:http://www.museuoscarniemeyer.org.br/exposicoes/calendario REL:1
+>>>RELEV:112.0
+TOTAL PAGES:940
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.nossacasa.net/literatura/default.asp?autor=Mário%20Quintana&grupo=1 REL:1
+>>>RELEV:111.0
+TOTAL PAGES:941
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.angelfire.com/stars/HomeKarametade/curiosidades.htm REL:1
+>>>RELEV:111.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:943
+TOTAL TIME:1
+AVERAGE:4.0
+>>>>>URL:http://www.ufrgs.br/ufrgs/calendarios/calendario-inicial REL:1
+>>>RELEV:111.0
+TOTAL PAGES:944
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.foriente.pt/2464/fundacao-oriente-distinguida-pelo-ministerio-dos-negocios-estrangeiros-do-japao-.htm REL:1
+>>>RELEV:111.0
+TOTAL PAGES:945
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/profile/26022-paulo-jorge-godinho-sousa/ REL:1
+>>>RELEV:110.0
+TOTAL PAGES:946
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/6.mp3 REL:1
+>>>RELEV:110.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:948
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/122-s&atilde;o-paulo-brasil-casa-gerassi-paulo-mendes-da-rocha/?do=getLastComment REL:1
+>>>RELEV:110.0
+TOTAL PAGES:949
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://lagash.blogs.sapo.pt/tag/murm%C3%BArio REL:1
+>>>RELEV:109.0
+TOTAL PAGES:950
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://tiago_ribeiro.blogspot.com/2004/05/tipo-volume-vi-fumo-mental-apario.html REL:1
+>>>RELEV:109.0
+TOTAL PAGES:951
+TOTAL TIME:7
+AVERAGE:3.0
+>>>>>URL:http://www.amoreamor.com/busca.php?q=aniversario+60+anos&t=poesia REL:1
+>>>RELEV:109.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/andersson/66127 REL:1
+>>>RELEV:108.0
+TOTAL PAGES:952
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.museuoscarniemeyer.org.br/visite/ingressos-horarios REL:1
+>>>RELEV:108.0
+TOTAL PAGES:953
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://karikamania.no.sapo.pt/Presentes_Aniversario.htm REL:1
+>>>RELEV:108.0
+TOTAL PAGES:954
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.fnlij.org.br/site/item/715-1º-seminário-do-mbl-em-dezembro.html REL:1
+>>>RELEV:106.0
+>>>>>URL:http://www.fames.es.gov.br/pagina/51_Laboratorio-de-Alta-Performance-em-Violao.html REL:1
+>>>RELEV:106.0
+TOTAL PAGES:955
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musica-portuguesa.com/_tiago-e-paulo.htm REL:1
+>>>RELEV:105.0
+TOTAL PAGES:956
+TOTAL TIME:44
+AVERAGE:4.0
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/122-s&atilde;o-paulo-brasil-casa-gerassi-paulo-mendes-da-rocha/?do=getNewComment REL:1
+>>>RELEV:105.0
+TOTAL PAGES:957
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario6.html REL:1
+>>>RELEV:104.0
+TOTAL PAGES:958
+TOTAL TIME:0
+AVERAGE:4.0
+>>>>>URL:http://www.aber.org.br/cursos/calendario REL:1
+>>>RELEV:104.0
+>>>>>URL:http://www.djronaldinho.com/includes/player.php?local&codec=mp3&url=/audios/top10/7.mp3 REL:1
+>>>RELEV:104.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:960
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musicaeeducacao.mus.br/viajantesdeorion REL:1
+>>>RELEV:104.0
+TOTAL PAGES:961
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.udesc.br/?idFormulario=144 REL:1
+>>>RELEV:102.0
+TOTAL PAGES:962
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.nada.com.pt/?p=pesquisa&amp;q=Laboratório&amp;r=0&amp;l=pt REL:1
+>>>RELEV:101.0
+TOTAL PAGES:963
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://portodeabrigo.do.sapo.pt/cesario20.html REL:1
+>>>RELEV:101.0
+TOTAL PAGES:964
+TOTAL TIME:0
+AVERAGE:3.0
+LOADED: 100000
+>> TOTAL LOADED: 1019
+TOTAL PAGES:965
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.erasmocarlos.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:966
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/engenheirosdohawaii/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:967
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vitorshalom.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:968
+TOTAL TIME:4
+AVERAGE:3.0
+>>>>>URL:http://www.quitopedrosa.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:969
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mpb4.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:970
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.musicaeadoracao.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:971
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/terrasamba/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:972
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.viniciusdemoraes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:973
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.paulinhodaviola.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:974
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.zeramalho.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.raulvargas.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:975
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.barradasaia.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:976
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.andremartins.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:977
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.zealexandre.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:978
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.graphias.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:979
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.amoakonoya.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:980
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.serqueira.com.br/mapas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:981
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.malvados.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:982
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sucessoempoucaspalavras.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:983
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.nararoesler.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:984
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sombrasil.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:985
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lordelloegobbi.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:986
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.geraldoazevedo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:987
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.germinaliteratura.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:988
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/carlavisi/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:989
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.sambarock.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:990
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.jazzbrasil.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.paulinhomoska.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:991
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.matanza.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:992
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.kikofreitas.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:993
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelalemosatelie.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:994
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.omelete.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:995
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mangadf.com.br/curso/home.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:996
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.tvcultura.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:997
+TOTAL TIME:5
+AVERAGE:3.0
+>>>>>URL:http://www.elvispresleycover.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:998
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.insite.com.br/art/pessoa/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:999
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.poemasecancoes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1000
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/secosemolhados/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1001
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.braziltoonz.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1002
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.gustavodourado.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1003
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.telaseartes.uai.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1004
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.bandacartoon.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1005
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.adrianaalcantara.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1006
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.trioimages.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.mariofabre.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1007
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.casadasartes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1008
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cisma.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1009
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://abemeducacaomusical.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1010
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.washingtonbrasileiro.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1011
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.robertamiranda.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1012
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.jotahilustracoes.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1013
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.chicosalles.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1014
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.teteespindola.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1015
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://animespirit.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1016
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.pretagil.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1017
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.galeriaestacao.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1018
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/zeliaduncan/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1019
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.mauriciooliveira.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1020
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.elianecamargo.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1021
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.yalerenan.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1022
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.vamoscronicar.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1023
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.orlandomorais.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1024
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.lyliavirna.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1025
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.vanderlee.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1026
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.gruporevelacao.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.cintiabarreto.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1027
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.ateliedaimagem.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1028
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/fernandamontenegro/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1029
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.dancehitz.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1030
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.jussarasilveira.com.br/index_jussarasilveira.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1031
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.webcine.com.br/filmessi/abrildes.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1032
+TOTAL TIME:185
+AVERAGE:3.0
+>>>>>URL:http://www.bananapop.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1033
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.magicosany.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1034
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.flaviocarvalho.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1035
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.tatucolor.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1036
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cartoonnetwork.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1037
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.cavaleirosmania.blogger.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1038
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.ranier.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1039
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.livemix.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1040
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.elbaramalho.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1041
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.comartevirtual.com.br/bh1secul.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1042
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.celineimbert.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1043
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.hgn.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1044
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.todas.com.br/indexpoeta.htm REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1045
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.anppom.com.br/opus/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1046
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.krisiun.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1047
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/arcangeloianelli/sessoes/centro.htm REL:2
+>>>RELEV:299.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1049
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.santannacantador.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1050
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.webletras.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1051
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.skank.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1052
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.zizipossi.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1053
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://masp.uol.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1054
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.brennand.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1055
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guilhermevianna.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1056
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://anmtv.xpg.uol.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1057
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.janeduboc.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1058
+TOTAL TIME:7
+AVERAGE:3.0
+TOTAL PAGES:1059
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.clavecin.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www.artbiz.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1060
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.polzonoff.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1061
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.cineweb.com.br/ REL:2
+>>>RELEV:299.0
+>>>>>URL:http://www2.uol.com.br/tribalistas/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1062
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/laerte/tiras/index-piratas.html REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1063
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.oscarararipe.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1064
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.monicafuchs.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1065
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.magodasimagens.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1066
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www2.uol.com.br/edmotta/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1067
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.omelete.com.br/busca/?q=Hist%C3%B3ria+do+rock+no+cinema REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1068
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.cazuza.com.br/ REL:2
+>>>RELEV:299.0
+TOTAL PAGES:1069
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/andersson/66127/arcos/ REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1071
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.angelfire.com/pe/fyjogomisterioso/Nuriko.html REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1072
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.paulejack.com/blog/452-magico-em-sao-paulo REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1073
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/mauricio-martins/18193/colecoes/ REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1074
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/directorio/pid=260/identificador=/ REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1076
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/directorio/pid=365/identificador=/ REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1077
+TOTAL TIME:2
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/directorio/pid=226/identificador=/ REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1078
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/edsonlaurent/67835/revistas-mais-desejadas REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1079
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/renato-pires/67841/ultimas-capas-adicionadas REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.unl.pt/directorio/pid=113/identificador=/ REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1082
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.itaucultural.org.br/programe-se/agenda/eventos-anteriores/?term=&titulo=&start_date=&end_date=&place=&pagina=6&ordenacao= REL:1
+>>>RELEV:199.0
+>>>>>URL:http://www.guiadosquadrinhos.com/edicao-estrangeira/capas-dos-gibis-na-odrem-original-de/new-york-worlds-fair/2141 REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1083
+TOTAL TIME:3
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/diego-torralbo/60817/favicon.ico REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.unl.pt/data/internacional/Acoes_Integradas/F_8_Ficha_de_Auto-avaliação_-_Relatório_de_Atividades_-Tese_em_co-tutela.docx REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://livroseafins.com/arte-urbana-em-sao-paulo/feed// REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1087
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Div4Dora REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1088
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/mauricio-martins/18193/maiores-colecoes REL:1
+>>>RELEV:199.0
+>>>>>URL:http://pt-br.naruto.wikia.com/wiki/Usu%C3%A1rio:Aur%C3%A9lionagato REL:1
+>>>RELEV:199.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1090
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/directorio/pid=266/identificador=/ REL:1
+>>>RELEV:199.0
+>>>>>URL:http://www.minirecados.com/feliz_aniversario/4/ REL:1
+>>>RELEV:199.0
+TOTAL PAGES:1091
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/jonathansb/67840/favicon.ico REL:1
+>>>RELEV:199.0
+>>>>>URL:http://www.minirecados.com/fotorecado-aniversario-51/ REL:1
+>>>RELEV:198.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1093
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/mauricio-martins/18193/lancamentos-do-mes/12/2015 REL:1
+>>>RELEV:198.0
+TOTAL PAGES:1094
+TOTAL TIME:0
+AVERAGE:3.0
+>>>>>URL:http://www.unl.pt/directorio/pid=523/identificador=/ REL:1
+>>>RELEV:198.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+TOTAL PAGES:1096
+TOTAL TIME:1
+AVERAGE:3.0
+>>>>>URL:http://www.guiadosquadrinhos.com/usuario/mauricio-martins/18193/favicon.ico REL:1
+>>>RELEV:198.0
+java.lang.NullPointerException
+serializando excecao...
+--
+focusedCrawler.util.storage.StorageException
+	at focusedCrawler.link.LinkStorage.insert(LinkStorage.java:142)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.callStorage(ServerConnectionHandler.java:158)
+	at focusedCrawler.util.storage.socket.ServerConnectionHandler.run(ServerConnectionHandler.java:344)
+>>>>>URL:http://www.arquitectura.pt/forum/forums/topic/4596-arquitectura-de-interiores-fautl/?do=findComment&amp;comment=26923 REL:1
+>>>RELEV:198.0

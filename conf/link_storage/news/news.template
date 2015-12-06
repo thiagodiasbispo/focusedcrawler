@@ -1,0 +1,15 @@
+. ./features
+FILE_CLASSIFIER  ${CONFIG_DIR}/link_storage/news/svm.model
+
+#AUTOMATIC SELECTED
+#ATTRIBUTES  url_new url_articl url_index url_section url_app url_page url_sport url_stori url_time url_blog url_categori url_view url_event url_pioneerloc url_jun url_site url_option url_pbc url_dll url_detail url_content url_opinion url_busi url_lifestyl url_local url_emissourian url_tcpalm url_galleri url_util url_here url_brd url_nav url_tennessean url_home url_more url_car url_daili url_web url_commun url_school url_video url_regist url_nevada url_top url_obituari url_photo url_search url_weather url_classifi url_entertain around_new around_home around_search around_local around_classifi around_sport around_subscrib around_site around_contact around_busi around_photo around_archiv around_obituari around_opinion around_commun around_servic around_advertis around_colorado around_weather around_real around_page around_counti around_estat around_web around_copyright around_event around_school around_june around_blog around_car around_letter around_entertain around_email around_stori around_more around_edit around_time around_deal around_job around_login around_editor around_regist around_daili around_comment around_video around_here around_top around_sign around_nevada around_apart anchor_new anchor_home anchor_daili anchor_lake anchor_mobil anchor_colorado anchor_vail anchor_journal anchor_blog anchor_shawne anchor_edit anchor_taho anchor_california anchor_south anchor_busi anchor_var anchor_nate anchor_build anchor_press anchor_murfreesboro anchor_broomfield anchor_pilot anchor_wylie anchor_navig anchor_tolowercas anchor_indexof anchor_docum anchor_div anchor_commun anchor_broomfieldenterpris anchor_thi anchor_sport anchor_state anchor_formobj anchor_getelementbyid anchor_local anchor_glendal anchor_post anchor_tcpalm anchor_style anchor_make anchor_skip anchor_counti anchor_jackson anchor_page anchor_a-l anchor_weekend anchor_alamogordo anchor_top anchor_right
+
+
+FIELD_URL a
+
+FIELD_AROUND a
+
+FIELD_ANCHOR a
+
+
+HOSTS www.nytimes.com  
